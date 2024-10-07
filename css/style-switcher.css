@@ -44,6 +44,14 @@
 {
   top: 55px;
 }
+.style-switcher .language
+{
+  top: 110px;
+}
+.style-switcher .language-zh-tw
+{
+  top: 110px;
+}
 .style-switcher h4
 {
   margin: 0 0 10px;
