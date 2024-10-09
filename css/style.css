@@ -649,6 +649,7 @@ h3.my-profession
 .portfolio .portfolio-item-inner .portfolio-img a:visited {
   color: inherit; /* 設置點擊後的顏色和未點擊時相同 */
 }
+
 /* contact */
 .contact-title
 {
