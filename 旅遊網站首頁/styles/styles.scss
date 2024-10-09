@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif+TC&display=swap");
+
+$themecColor:rgba(152,57,255,0.5);
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: normal;
+}
+body{
+  position: relative;
+
+  img.fixed-image{
+    min-height: 100vh;
+    position: fixed;
+    width: 100%;
+    z-index: -5;
+    top: 0;
+    left: 0;
+  }
+  header{
+    background-color:white;
+    display: flex; 
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 10px;
+    section.logo{
+      transition: all 0.2s ease;
+      flex: 2 1 400px;
+      display: flex;
+      align-items: center;
+      &:hover{
+        scale: 105%;
+      }
+      h1{
+        font-size: 2.5rem;
+      }
+      img{
+        width: 6vw;
+        height: 6vw;
+      }
+    }
+  
+    nav{
+      flex: 5 1 500px;
+      ul{
+        display: flex;
+        list-style: none;
+        justify-content: flex-end;
+        gap: 5%;
+        li{
+          a{
+            color: black;
+            text-decoration: none;
+            font-size: 1.2rem;
+            transition: all 0.2s ease;
+            padding-bottom: 0.3rem;
+            &:hover{
+              color:$themecColor;
+              border-bottom: 3px solid $themecColor;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  main{
+    section.background-img{
+      min-height: 70vh;
+      background-image: url("../images/日本櫻花.jpg");
+      background-size: cover;
+      background-position: center;
+      transition: all 0.5s ease;
+      position: relative;
+      z-index: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+      div.filter{
+        background-color: rgba(0,0,0,0.5);
+        width: 100%;
+        height: 70vh;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+      }
+  
+      h3{
+        color: white;
+        font-size: 2.5rem;
+        text-align: center ;
+      }
+    }
+  
+    section.info-circles{
+      background-color: white;
+      padding: 2rem 1rem;
+      h3{
+        text-align: center;
+        font-size: 2rem;
+      }
+      .circles{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        .circle{
+          flex: 0 1 250px;
+          padding: 1rem;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          img{
+            width: 80%;
+            border-radius: 50%;
+            transition: all 0.1s;
+            padding: 0.3rem;
+            &:hover{
+              border: 3px solid $themecColor;
+            }
+          }
+        }
+      }
+    }
+  
+    section.empty-container{
+      min-height: 70vh;
+      background-color: rgba(0,0,0,0.7);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      h3{
+        font-size: 2rem;
+        color: white;
+      }
+    }
+
+    section.google-map{
+      background-color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+      h3{
+        font-size: 2.5rem;
+      }
+      p{
+        margin: 1rem;
+        font-size: 1.25rem;
+      }
+      iframe{
+        width:100%;
+        height: 40vh;
+      }
+    }
+  }
+
+  footer{
+    background-color: rgba(0,0,0,0.2);
+    padding: 1.5rem;
+    section.logo{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      img{
+        width: 15vw;
+      }
+      h3{
+        font-size: 2.5rem;
+      }
+    }
+    .links{
+      display: flex;
+      justify-content: center;
+      gap: 0.1rem;
+      margin-top: 2rem;
+      a{
+        transition: all 0.2s ease;
+        img{
+          width: 5vw;
+          height: 5vh;
+        }
+        &:hover{
+          scale: 120%;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width:700px) {
+  body{
+    header{
+      section.logo{
+        flex-direction: column;
+        img{
+          width:20vw;
+          height: 20vh;
+        }
+      }
+      nav{
+        ul{
+          flex-direction: column;
+          li{
+            padding-bottom: 1rem;
+          }
+      }
+    }
+  }
+}
+}

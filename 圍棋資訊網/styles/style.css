@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif+TC&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+}
+
+p {
+  padding: 0.5rem;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: normal;
+}
+
+header .top {
+  padding: 1rem;
+  background-image: url("../images/background.png");
+}
+header .top h1 {
+  font-size: 2.5rem;
+}
+header .top h3 {
+  font-size: 1.2rem;
+}
+header nav {
+  background-color: black;
+}
+header nav ul {
+  list-style: none;
+  display: flex;
+}
+header nav ul li {
+  padding: 0.8rem 1.2rem;
+}
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+header nav ul li a:hover {
+  color: yellow;
+}
+header nav ul li .active {
+  color: yellow;
+}
+
+main.index {
+  display: flex;
+  flex-wrap: wrap;
+}
+main.index section.left {
+  padding: 1rem;
+  flex: 1 1 200px;
+}
+main.index section.left img {
+  width: 90%;
+}
+main.index section.left h3 {
+  margin-bottom: 1rem;
+}
+main.index section.left tr, main.index section.left td {
+  padding-bottom: 0.2rem;
+}
+main.index section.left table {
+  margin-top: 10px;
+}
+main.index section.right {
+  padding: 1rem;
+  flex: 4 1 500px;
+}
+main.index section.right h3 {
+  font-size: 1.5rem;
+  margin-top: 0.25rem;
+}
+main.index section.right ul {
+  margin-left: 1rem;
+}
+
+main.korea {
+  padding: 1rem;
+  display: block;
+}
+main.korea h3 {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+main.korea p {
+  padding: 0.5rem 0;
+}
+main.korea .player {
+  margin: 2rem;
+  padding: 0.5rem;
+  border: 2px solid cadetblue;
+}
+main.korea .player h4 {
+  font-size: 1.5rem;
+  color: cadetblue;
+  font-weight: bolder;
+}
+main.korea .player h5 {
+  font-size: 1rem;
+  color: cadetblue;
+}
+
+main.japan .introduction {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  gap: 10px;
+}
+main.japan .introduction .image {
+  flex: 1 1 300px;
+  display: flex;
+  align-items: center;
+}
+main.japan .introduction .image img {
+  width: 100%;
+}
+main.japan .introduction .info {
+  flex: 3 1 600px;
+}
+main.japan .introduction .info ul {
+  margin: 0 2rem;
+}
+main.japan .competition {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+}
+main.japan .competition .text {
+  flex: 5 1 300px;
+  padding: 1rem;
+}
+main.japan .competition .text h3 {
+  font-size: 2rem;
+  color: cadetblue;
+}
+main.japan .competition .text ul {
+  margin: 0 1.5rem;
+}
+main.japan .competition #piechart {
+  flex: 1 1 300px;
+}
+
+main.china {
+  padding: 1rem;
+}
+main.china h3 {
+  font-size: 2rem;
+  color: cadetblue;
+}
+main.china table tr, main.china table td {
+  padding: 0.5rem;
+}
+main.china table th {
+  background-color: cadetblue;
+  color: white;
+  padding: 0.25rem;
+}
+
+main.taiwan {
+  padding: 0 1rem;
+}
+main.taiwan h3 {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: cadetblue;
+}
+main.taiwan ul {
+  margin: 0 1rem;
+}/*# sourceMappingURL=style.css.map */

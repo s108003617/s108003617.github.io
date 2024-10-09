@@ -634,8 +634,20 @@ h3.my-profession
 }
 .portfolio .portfolio-item-inner .portfolio-img img
 {
-  width: 100%;
-  display: block;
+  width: 100%; /* 設定固定寬度 */
+  height: 300px; /* 設定固定高度 */
+  object-fit: cover; /* 保持圖片比例並裁剪多餘部分 */
+  display: grid;
+}
+.portfolio .portfolio-item-inner .portfolio-img a
+{
+  display: inline-block;
+  width: 100%; /* 確保 a 元素的寬度和父元素相同 */
+  text-align: center; /* 使文字水平居中 */
+  background: var(--bg-black-100);
+}
+.portfolio .portfolio-item-inner .portfolio-img a:visited {
+  color: inherit; /* 設置點擊後的顏色和未點擊時相同 */
 }
 /* contact */
 .contact-title

@@ -1,0 +1,1857 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 11",
+    "category": "手機",
+    "photos": "Apple iPhone 11 $15500 la.png",
+    "stock": 90,
+    "price": 15500,
+    "info": "Apple iPhone 11 是2019年推出的智慧手機，配備6.1吋LCD螢幕、A13仿生晶片，支援雙鏡頭相機系統。",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 12",
+    "category": "手機",
+    "photos": "Apple iPhone 12 $16900 la.png",
+    "stock": 50,
+    "price": 16900,
+    "info": "Apple iPhone 12 是2020年推出的智慧手機，擁有6.1吋Super Retina XDR顯示器、A14仿生晶片，支援5G網絡和雙鏡頭相機系統。",
+    "brand": "Apple"
+  },
+  {
+    "id": 3,
+    "name": "Apple iPhone 12 Pro Max",
+    "category": "手機",
+    "photos": "Apple iPhone 12 Pro Max $32500 la.png",
+    "stock": 60,
+    "price": 15500,
+    "info": "Apple iPhone 12 Pro Max 是2020年推出的旗艦智慧手機，配備6.7吋Super Retina XDR顯示器、A14仿生晶片，支援5G網絡，擁有三鏡頭相機系統和LiDAR掃描儀。",
+    "brand": "Apple"
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 12 Pro",
+    "category": "手機",
+    "photos": "Apple iPhone 12 Pro$28500 la.png",
+    "stock": 70,
+    "price": 28500,
+    "info": "Apple iPhone 12 Pro 是2020年推出的高階智慧手機，配備6.1吋Super Retina XDR顯示器、A14仿生晶片，支援5G網絡，擁有三鏡頭相機系統和LiDAR掃描儀。",
+    "brand": "Apple"
+  },
+  {
+    "id": 5,
+    "name": "Apple iPhone 13",
+    "category": "手機",
+    "photos": "Apple iPhone 13 $17400 la.png",
+    "stock": 80,
+    "price": 17400,
+    "info": "Apple iPhone 13 是2021年推出的智慧手機，擁有6.1吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡和雙鏡頭相機系統，提升電池續航力。",
+    "brand": "Apple"
+  },
+  {
+    "id": 6,
+    "name": "Apple iPhone 13 mini",
+    "category": "手機",
+    "photos": "Apple iPhone 13 mini $19500 la.png",
+    "stock": 90,
+    "price": 19500,
+    "info": "Apple iPhone 13 mini 是2021年推出的輕便智慧手機，配備5.4吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡和雙鏡頭相機系統，電池續航力較前代提升。",
+    "brand": "Apple"
+  },
+  {
+    "id": 7,
+    "name": "Apple iPhone 13 Pro",
+    "category": "手機",
+    "photos": "Apple iPhone 13 Pro $31900 la.png",
+    "stock": 100,
+    "price": 31900,
+    "info": "Apple iPhone 13 Pro 是2021年推出的高階智慧手機，擁有6.1吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡，配備三鏡頭相機系統和ProMotion自適應刷新率技術。",
+    "brand": "Apple"
+  },
+  {
+    "id": 8,
+    "name": "Apple iPhone 13 Pro Max",
+    "category": "手機",
+    "photos": "Apple iPhone 13 Pro Max $33500 la.png",
+    "stock": 20,
+    "price": 33500,
+    "info": "Apple iPhone 13 Pro Max 是2021年推出的旗艦智慧手機，配備6.7吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡，擁有三鏡頭相機系統和ProMotion自適應刷新率技術，電池續航力優異。",
+    "brand": "Apple"
+  },
+  {
+    "id": 9,
+    "name": "Apple iPhone 14 Plus",
+    "category": "手機",
+    "photos": "Apple iPhone 14 Plus$25800 la.png",
+    "stock": 30,
+    "price": 25800,
+    "info": "Apple iPhone 14 Plus 是2022年推出的智慧手機，擁有6.7吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡和雙鏡頭相機系統，提供更大電池容量和優異續航力。",
+    "brand": "Apple"
+  },
+  {
+    "id": 10,
+    "name": "Apple iPhone 14 Pro Max",
+    "category": "手機",
+    "photos": "Apple iPhone 14 Pro Max$32000 la.png",
+    "stock": 40,
+    "price": 32000,
+    "info": "Apple iPhone 14 Pro Max 是2022年推出的旗艦智慧手機，擁有6.7吋Super Retina XDR顯示器、A16仿生晶片，支援5G網絡，配備三鏡頭相機系統和ProMotion自適應刷新率技術，並新增動態島設計。",
+    "brand": "Apple"
+  },
+  {
+    "id": 11,
+    "name": "Apple iPhone 14 Pro",
+    "category": "手機",
+    "photos": "Apple iPhone 14 Pro$31600 la.png",
+    "stock": 50,
+    "price": 31600,
+    "info": "Apple iPhone 14 Pro 是2022年推出的高階智慧手機，擁有6.1吋Super Retina XDR顯示器、A16仿生晶片，支援5G網絡，配備三鏡頭相機系統和ProMotion自適應刷新率技術，並引入動態島設計。",
+    "brand": "Apple"
+  },
+  {
+    "id": 12,
+    "name": "Apple iPhone 14",
+    "category": "手機",
+    "photos": "Apple iPhone 14$21800 la.png",
+    "stock": 60,
+    "price": 21800,
+    "info": "Apple iPhone 14 是2022年推出的智慧手機，擁有6.1吋Super Retina XDR顯示器、A15仿生晶片，支援5G網絡和雙鏡頭相機系統，提供更佳的電池續航力和多項相機改進。",
+    "brand": "Apple"
+  },
+  {
+    "id": 13,
+    "name": "Apple iPhone 15 Plus",
+    "category": "手機",
+    "photos": "Apple iPhone 15 Plus$27900 la.png",
+    "stock": 70,
+    "price": 27900,
+    "info": "Apple iPhone 15 Plus 是2023年推出的智慧手機，擁有6.7吋Super Retina XDR顯示器、A16仿生晶片，支援5G網絡和雙鏡頭相機系統，提供優異的電池續航力和更佳的性能。",
+    "brand": "Apple"
+  },
+  {
+    "id": 14,
+    "name": "Apple iPhone 15 Pro Max",
+    "category": "手機",
+    "photos": "Apple iPhone 15 Pro Max $38100 la.png",
+    "stock": 80,
+    "price": 38100,
+    "info": "Apple iPhone 15 Pro Max 是2023年推出的旗艦智慧手機，擁有6.7吋Super Retina XDR顯示器、A17仿生晶片，支援5G網絡，配備三鏡頭相機系統和ProMotion自適應刷新率技術，電池續航力優異。",
+    "brand": "Apple"
+  },
+  {
+    "id": 15,
+    "name": "Apple iPhone 15 Pro",
+    "category": "手機",
+    "photos": "Apple iPhone 15 Pro$31400 la.png",
+    "stock": 90,
+    "price": 33500,
+    "info": "Apple iPhone 15 Pro 是2023年推出的高階智慧手機，擁有6.1吋Super Retina XDR顯示器、A17仿生晶片，支援5G網絡，配備三鏡頭相機系統和ProMotion自適應刷新率技術。",
+    "brand": "Apple"
+  },
+  {
+    "id": 16,
+    "name": "Apple iPhone 15",
+    "category": "手機",
+    "photos": "Apple iPhone 15$24700 la.png",
+    "stock": 100,
+    "price": 24700,
+    "info": "Apple iPhone 15 是2023年推出的智慧手機，擁有6.1吋Super Retina XDR顯示器、A16仿生晶片，支援5G網絡和雙鏡頭相機系統。",
+    "brand": "Apple"
+  },
+  {
+    "id": 17,
+    "name": "Apple iPhone SE",
+    "category": "手機",
+    "photos": "Apple iPhone SE (2022)$12800 la.png",
+    "stock": 10,
+    "price": 12800,
+    "info": "Apple iPhone SE 是2022年推出的經濟型智慧手機，擁有4.7吋Retina HD顯示器、A15仿生晶片，支援5G網絡，配備單鏡頭相機系統。",
+    "brand": "Apple"
+  },
+  {
+    "id": 18,
+    "name": "Samsung Galaxy A15",
+    "category": "手機",
+    "photos": "Samsung Galaxy A15 5G $4300 la.png",
+    "stock": 20,
+    "price": 4300,
+    "info": "Samsung Galaxy A15 是2023年推出的中階智慧手機，擁有6.5吋Infinity-V顯示器、Exynos 850處理器，支援4G網絡，配備三鏡頭相機系統和長效電池。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 19,
+    "name": "Samsung Galaxy A25 5G",
+    "category": "手機",
+    "photos": "Samsung Galaxy A25 5G$6290 la.png",
+    "stock": 30,
+    "price": 6290,
+    "info": "Samsung Galaxy A25 5G 是一款中階智慧手機，擁有6.5吋Infinity-V顯示器、Exynos 850處理器，支援5G網絡，配備三鏡頭相機系統和長效電池。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 20,
+    "name": "Samsung Galaxy A35 5G",
+    "category": "手機",
+    "photos": "Samsung Galaxy A35 5G$7600 la.png",
+    "stock": 40,
+    "price": 7600,
+    "info": "Samsung Galaxy A35 5G 是一款中階智慧手機，擁有6.5吋Super AMOLED顯示器、Exynos 980處理器，支援5G網絡，配備四鏡頭相機系統和長效電池。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 21,
+    "name": "Samsung Galaxy A54 5G",
+    "category": "手機",
+    "photos": "Samsung Galaxy A54 5G$7800 la.png",
+    "stock": 50,
+    "price": 7800,
+    "info": "Samsung Galaxy A54 5G 是一款中高階智慧手機，擁有6.5吋Super AMOLED顯示器、Exynos 1080處理器，支援5G網絡，配備四鏡頭相機系統和長效電池。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy A55 5G",
+    "category": "手機",
+    "photos": "Samsung Galaxy A55 5G$9700 la.png",
+    "stock": 60,
+    "price": 9700,
+    "info": "Samsung Galaxy A55 5G 是一款中高階智慧手機，擁有6.5吋Super AMOLED顯示器、Exynos 1280處理器，支援5G網絡，配備四鏡頭相機系統和長效電池。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 23,
+    "name": "Samsung Galaxy S23 FE",
+    "category": "手機",
+    "photos": "Samsung Galaxy S23 FE  $12900 la.png",
+    "stock": 70,
+    "price": 12900,
+    "info": "Samsung Galaxy S23 FE 是一款高階智慧手機，擁有6.4吋Dynamic AMOLED顯示器、Exynos 2200處理器，支援5G網絡，配備三鏡頭相機系統和優異的性能。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 24,
+    "name": "Samsung Galaxy S23 Ultra",
+    "category": "手機",
+    "photos": "Samsung Galaxy S23 Ultra  $25300 la.png",
+    "stock": 80,
+    "price": 25300,
+    "info": "Samsung Galaxy S23 Ultra 是一款旗艦智慧手機，擁有6.8吋Dynamic AMOLED顯示器、Exynos 2200處理器，支援5G網絡，配備四鏡頭相機系統和S Pen支持。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 25,
+    "name": "Samsung Galaxy S24",
+    "category": "手機",
+    "photos": "Samsung Galaxy S24  $19500 la.png",
+    "stock": 90,
+    "price": 19500,
+    "info": "Samsung Galaxy S24 是一款高階智慧手機，擁有6.4吋Dynamic AMOLED顯示器、Exynos 2400處理器，支援5G網絡，配備三鏡頭相機系統和優異的性能。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 26,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "手機",
+    "photos": "Samsung Galaxy S24 Ultra$31900 la.png",
+    "stock": 10,
+    "price": 31900,
+    "info": "Samsung Galaxy S24 Ultra 是一款旗艦智慧手機，擁有6.8吋Dynamic AMOLED顯示器、Exynos 2400處理器，支援5G網絡，配備四鏡頭相機系統和S Pen支持。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 27,
+    "name": "Samsung Galaxy S24+",
+    "category": "手機",
+    "photos": "Samsung Galaxy S24+ $25200 la.png",
+    "stock": 20,
+    "price": 25200,
+    "info": "Samsung Galaxy S24+ 是一款高階智慧手機，擁有6.7吋Dynamic AMOLED顯示器、Exynos 2400處理器，支援5G網絡，配備三鏡頭相機系統和優異的性能。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 28,
+    "name": "Samsung Galaxy Z Fold 5",
+    "category": "手機",
+    "photos": "Samsung Galaxy Z Fold 5 $39000 la.png",
+    "stock": 30,
+    "price": 39000,
+    "info": "Samsung Galaxy Z Fold 5 是一款2023年推出的旗艦可摺疊智慧手機，擁有7.6吋Dynamic AMOLED主顯示器和6.2吋Cover顯示器，搭載Snapdragon 8 Gen 2處理器，支援5G網絡，配備多鏡頭相機系統和改進的鉸鏈設計。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 29,
+    "name": "Sony Xperia 1 VI",
+    "category": "手機",
+    "photos": "Sony Xperia 1 VI 32900 la.png",
+    "stock": 30,
+    "price": 32900,
+    "info": "Sony Xperia 1 VI 是2023年推出的旗艦智慧手機，擁有6.5吋4K HDR OLED顯示器、Snapdragon 8 Gen 2處理器，支援5G網絡，配備三鏡頭相機系統，具備先進的影像技術和專業級攝影功能。",
+    "brand": "Sony"
+  },
+  {
+    "id": 30,
+    "name": "Sony Xperia 5 IV",
+    "category": "手機",
+    "photos": "Sony Xperia 5 IV 21500 la.png",
+    "stock": 30,
+    "price": 21500,
+    "info": "Sony Xperia 5 IV 是2022年推出的高階智慧手機，擁有6.1吋Full HD+ OLED顯示器、Snapdragon 8 Gen 1處理器，支援5G網絡，配備三鏡頭相機系統，具備先進的影像技術和優異的性能。",
+    "brand": "Sony"
+  },
+  {
+    "id": 31,
+    "name": "ACER 宏碁 A515-58P-599T 15.6吋效能筆電",
+    "category": "筆電",
+    "photos": "ACER 宏碁 A515-58P-599T 15.6吋效能筆電  $13440.jpg",
+    "stock": 30,
+    "price": 13440,
+    "info": "ACER 宏碁 A515-58P-599T 是一款15.6吋效能筆電，搭載Intel Core i5-1235U處理器、16GB RAM和512GB SSD，具備Full HD顯示器，提供強勁的效能和流暢的多任務處理能力，非常適合日常使用和辦公需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 32,
+    "name": "Acer 宏碁 Nitro V ANV15-51-58L8 15.6吋電競筆電",
+    "category": "筆電",
+    "photos": "Acer 宏碁 Nitro V ANV15-51-58L8 15.6吋電競筆電$29900.jpg",
+    "stock": 40,
+    "price": 29900,
+    "info": "Acer 宏碁 Nitro V ANV15-51-58L8 是一款15.6吋電競筆電，搭載Intel Core i5-12500H處理器、NVIDIA GeForce RTX 3050顯示卡、16GB RAM和512GB SSD，具備Full HD 144Hz顯示器，提供流暢的遊戲體驗和出色的顯示效果，非常適合遊戲玩家和多媒體處理需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 33,
+    "name": "Acer 宏碁 Predator Helios Neo PHN14-51-980B 14吋電競筆電",
+    "category": "筆電",
+    "photos": "Acer 宏碁 Predator Helios Neo PHN14-51-980B 14吋電競筆電$62900.jpg",
+    "stock": 50,
+    "price": 62900,
+    "info": "Acer 宏碁 Predator Helios Neo PHN14-51-980B 是一款14吋電競筆電，搭載Intel Core i9-13900H處理器、NVIDIA GeForce RTX 3060顯示卡、16GB RAM和1TB SSD，具備QHD 165Hz顯示器，提供強勁的遊戲性能和出色的顯示效果，非常適合高端遊戲和多媒體處理。",
+    "brand": "Acer"
+  },
+  {
+    "id": 34,
+    "name": "Acer 宏碁 Predator Helios PHN16-71-57LQ 16吋電競筆電",
+    "category": "筆電",
+    "photos": "Acer 宏碁 Predator Helios PHN16-71-57LQ 16吋電競筆電$33900.jpg",
+    "stock": 30,
+    "price": 33900,
+    "info": "Acer 宏碁 Predator Helios PHN16-71-57LQ 是一款16吋電競筆電，搭載Intel Core i5-12500H處理器、NVIDIA GeForce RTX 3050顯示卡、16GB RAM和512GB SSD，具備QHD 165Hz顯示器，提供流暢的遊戲體驗和出色的顯示效果，非常適合遊戲玩家和多媒體愛好者。",
+    "brand": "Acer"
+  },
+  {
+    "id": 35,
+    "name": "Aspire 5 Spin 14 A5SP14-51MTN-54K1 2 in 1 Notebook",
+    "category": "筆電",
+    "photos": "Aspire 5 Spin 14 A5SP14-51MTN-54K1 2 in 1 Notebook$26900.png",
+    "stock": 40,
+    "price": 26900,
+    "info": "Acer 宏碁 Aspire 5 Spin 14 A5SP14-51MTN-54K1 是一款14吋的二合一筆電，配備Intel Core i5-1235U處理器、8GB RAM和512GB SSD，具備Full HD觸控顯示器，可360度翻轉使用，適合多種使用模式，提供靈活性和便捷性，非常適合日常使用和辦公需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 36,
+    "name": "Aspire Go 15 AG15-31P-36XB Notebook",
+    "category": "筆電",
+    "photos": "Aspire Go 15 AG15-31P-36XB Notebook$13900.png",
+    "stock": 30,
+    "price": 13900,
+    "info": "Acer 宏碁 Aspire Go 15 AG15-31P-36XB 是一款15吋筆電，配備Intel Core i3-N305處理器、8GB RAM和256GB SSD，具備Full HD顯示器，提供良好的效能和可靠的存儲，非常適合日常使用、學習和辦公需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 37,
+    "name": "ASUS E210MA-0231BN4020 11.6吋筆電",
+    "category": "筆電",
+    "photos": "ASUS E210MA-0231BN4020 11.6吋筆電$9900.jpg",
+    "stock": 50,
+    "price": 9900,
+    "info": "ASUS E210MA-0231BN4020 是一款11.6吋筆電，搭載Intel Celeron N4020處理器、4GB RAM和128GB eMMC存儲，具備HD顯示器，輕薄便攜，適合基礎日常使用、學習和簡單的辦公需求。",
+    "brand": "Asus"
+  },
+  {
+    "id": 38,
+    "name": "ASUS FA401UU 14吋電競筆電",
+    "category": "筆電",
+    "photos": "ASUS FA401UU 14吋電競筆電 $43900.jpg",
+    "stock": 60,
+    "price": 43900,
+    "info": "ASUS FA401UU 是一款14吋電競筆電，搭載AMD Ryzen 7 5800H處理器、NVIDIA GeForce GTX 1660 Ti顯示卡、16GB RAM和512GB SSD，具備Full HD 144Hz顯示器，提供強勁的遊戲性能和出色的顯示效果，非常適合遊戲玩家和多媒體處理需求。",
+    "brand": "Asus"
+  },
+  {
+    "id": 39,
+    "name": "ASUS G614JVR 16吋2K電競筆電",
+    "category": "筆電",
+    "photos": "ASUS G614JVR 16吋2K電競筆電$63000.jpg",
+    "stock": 10,
+    "price": 63000,
+    "info": "ASUS G614JVR 是一款16吋2K電競筆電，搭載Intel Core i9-13900H處理器、NVIDIA GeForce RTX 4070顯示卡、32GB RAM和1TB SSD，具備2K解析度和165Hz刷新率的顯示器，提供極致的遊戲性能和視覺體驗，非常適合高端遊戲玩家和多媒體創作者。",
+    "brand": "Asus"
+  },
+  {
+    "id": 40,
+    "name": "ASUS G834JZR 18吋電競筆電",
+    "category": "筆電",
+    "photos": "ASUS G834JZR 18吋電競筆電$98999.jpg",
+    "stock": 80,
+    "price": 98999,
+    "info": "ASUS G834JZR 是一款18吋電競筆電，搭載Intel Core i9-13980HX處理器、NVIDIA GeForce RTX 4080顯示卡、32GB RAM和1TB SSD，具備QHD+解析度和240Hz刷新率的顯示器，提供頂級的遊戲性能和視覺體驗，非常適合高端遊戲玩家和專業多媒體創作者。",
+    "brand": "Asus"
+  },
+  {
+    "id": 41,
+    "name": "ASUS GA402XZ 14吋電競筆電",
+    "category":"筆電",
+    "photos": "ASUS GA402XZ 14吋電競筆電$65000.jpg",
+    "stock": 30,
+    "price": 65000,
+    "info": "ASUS GA402XZ 是一款14吋電競筆電，搭載AMD Ryzen 9 7940HS處理器、NVIDIA GeForce RTX 4080顯示卡、32GB RAM和1TB SSD，具備QHD解析度和165Hz刷新率的顯示器，提供強勁的遊戲性能和優異的視覺效果，非常適合高端遊戲玩家和多媒體創作者。",
+    "brand": "Asus"
+  },
+  {
+    "id": 42,
+    "name": "ASUS S5504VA 15.6吋效能筆電",
+    "category":"筆電",
+    "photos": "ASUS S5504VA 15.6吋效能筆電$28900.jpg",
+    "stock": 60,
+    "price": 28900,
+    "info": "ASUS S5504VA 是一款15.6吋效能筆電，搭載Intel Core i7-13620H處理器、16GB RAM和1TB SSD，具備Full HD顯示器，提供強勁的效能和大量存儲空間，非常適合多任務處理和高效能需求的使用者，如辦公、創意設計和多媒體處理。",
+    "brand": "Asus"
+  },
+  {
+    "id": 43,
+    "name": "ASUS X1500KA 15.6吋筆電",
+    "category":"筆電",
+    "photos": "ASUS X1500KA 15.6吋筆電$13600.jpg",
+    "stock": 40,
+    "price": 13600,
+    "info": "ASUS X1500KA 是一款15.6吋筆電，搭載Intel Pentium Silver N6000處理器、8GB RAM和256GB SSD，具備Full HD顯示器，提供基本的效能和存儲空間，非常適合日常使用、學習和輕度辦公需求。",
+    "brand": "Asus"
+  },
+  {
+    "id": 44,
+    "name": "GIGABYTE技嘉AORUS 15 BSF-73TW754SH",
+    "category":"筆電",
+    "photos": "GIGABYTE技嘉AORUS 15 BSF-73TW754SH$47500.jpg",
+    "stock": 50,
+    "price": 47500,
+    "info": "GIGABYTE 技嘉 AORUS 15 BSF-73TW754SH 是一款15.6吋電競筆電，搭載Intel Core i7-13700H處理器、NVIDIA GeForce RTX 4070顯示卡、16GB RAM和1TB SSD，具備QHD 165Hz顯示器，提供強勁的遊戲性能和出色的顯示效果，非常適合高端遊戲玩家和多媒體處理需求。",
+    "brand": "Giga"
+  },
+  {
+    "id": 45,
+    "name": "",
+    "category":"筆電",
+    "photos": "技嘉 AORUS 15 BKG 15.6吋AI電競筆電$51900.jpg",
+    "stock": 60,
+    "price": 51900,
+    "info": "",
+    "brand": "Giga"
+  },
+  {
+    "id": 46,
+    "name": "技嘉 G5 MF5-52TW383SH-SP2 15.6吋",
+    "category":"筆電",
+    "photos": "技嘉 G5 MF5-52TW383SH-SP2 15.6吋 黑 $32500.jpg",
+    "stock": 80,
+    "price": 32500,
+    "info": "GIGABYTE 技嘉 AORUS 15 BKG 是一款15.6吋AI電競筆電，搭載Intel Core i7-13700H處理器、NVIDIA GeForce RTX 4070顯示卡、16GB RAM和1TB SSD，具備QHD 165Hz顯示器，支持AI增強功能，提供強勁的遊戲性能和智能化體驗，非常適合高端遊戲玩家和多媒體處理需求。",
+    "brand": "Giga"
+  },
+  {
+    "id": 47,
+    "name": "技嘉 AERO 16 OLED BSF-A3TW964SP-SP1 16吋",
+    "category":"筆電",
+    "photos": "技嘉 AERO 16 OLED BSF-A3TW964SP-SP1 16吋 銀 特仕筆電$76000.jpg",
+    "stock": 10,
+    "price": 76000,
+    "info": "GIGABYTE 技嘉 AERO 16 OLED BSF-A3TW964SP-SP1 是一款16吋高端筆電，搭載Intel Core i9-13900H處理器、NVIDIA GeForce RTX 4070顯示卡、32GB RAM和1TB SSD，具備4K OLED顯示器，提供卓越的顏色和對比度，非常適合專業創意工作者和高性能需求的使用者，如視頻編輯和圖形設計。",
+    "brand": "Giga"
+  },
+  {
+    "id": 48,
+    "name": "HP 光影V Victus Gaming 15-fa0162TX 15.6吋電競筆電",
+    "category":"筆電",
+    "photos": "HP 光影V Victus Gaming 15-fa0162TX 15.6吋電競筆電$23900.jpg",
+    "stock": 10,
+    "price": 23900,
+    "info": "HP 光影 V Victus Gaming 15-fa0162TX 是一款15.6吋電競筆電，搭載Intel Core i7-12700H處理器、NVIDIA GeForce RTX 3060顯示卡、16GB RAM和512GB SSD，具備Full HD 144Hz顯示器，提供出色的遊戲性能和流暢的顯示效果，非常適合遊戲玩家和多媒體處理需求。",
+    "brand": "HP"
+  },
+  {
+    "id": 49,
+    "name": "PREDATOR TRITON NEO 16",
+    "category":"筆電",
+    "photos": "PREDATOR TRITON NEO 16$61900.png",
+    "stock": 20,
+    "price": 61900,
+    "info": "Acer 宏碁 Predator Triton Neo 16 是一款16吋高階電競筆電，搭載Intel Core i7-13700H處理器、NVIDIA GeForce RTX 4070顯示卡、16GB RAM和1TB SSD，具備QHD 165Hz顯示器，提供強勁的遊戲性能和出色的顯示效果，非常適合高端遊戲玩家和多媒體處理需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 50,
+    "name": "Swift Go 14 SFG14-72-53AL",
+    "category":"筆電",
+    "photos": "Swift Go 14 SFG14-72-53AL$28500.png",
+    "stock": 30,
+    "price": 28500,
+    "info": "Acer 宏碁 Swift Go 14 SFG14-72-53AL 是一款14吋筆電，搭載Intel Core i5-1335U處理器、16GB RAM和512GB SSD，具備Full HD顯示器，輕薄便攜，提供良好的效能和存儲空間，非常適合日常使用、學習和輕度辦公需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 51,
+    "name": "TravelMate P6 14 TMP614-53-50XL Notebook",
+    "category":"筆電",
+    "photos": "TravelMate P6 14 TMP614-53-50XL Notebook$25900.png",
+    "stock": 40,
+    "price": 25900,
+    "info": "Acer 宏碁 TravelMate P6 14 TMP614-53-50XL 是一款14吋商務筆電，搭載Intel Core i5-1235U處理器、16GB RAM和512GB SSD，具備Full HD顯示器，輕薄便攜，提供高效能和長效電池續航，非常適合商務人士的日常辦公和出差需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 52,
+    "name": "Lenovo ThinkPad L15 Gen 4 15.6吋商務筆電",
+    "category":"筆電",
+    "photos": "Lenovo ThinkPad L15 Gen 4 15.6吋商務筆電$39900.jpg",
+    "stock": 70,
+    "price": 39900,
+    "info": "Lenovo ThinkPad L15 Gen 4 是一款15.6吋商務筆電，搭載Intel Core i5-1335U處理器、16GB RAM和512GB SSD，具備Full HD顯示器，提供高效能和穩定的性能，擁有經典的ThinkPad鍵盤設計和多種安全功能，非常適合商務人士的日常辦公和多任務處理需求。",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 53,
+    "name": "Lenovo 聯想 IdeaPad Slim 5 16IMH9 83DC0048TW 16吋 筆電",
+    "category":"筆電",
+    "photos": "Lenovo 聯想 IdeaPad Slim 5 16IMH9 83DC0048TW 16吋 筆電$25900.jpg",
+    "stock": 10,
+    "price": 25900,
+    "info": "Lenovo 聯想 IdeaPad Slim 5 16IMH9 83DC0048TW 是一款16吋筆電，搭載Intel Core i5-13500H處理器、16GB RAM和512GB SSD，具備Full HD顯示器，設計輕薄便攜，提供良好的效能和存儲空間，非常適合日常使用、學習和輕度辦公需求。",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 54,
+    "name": "MSI微星 Alpha 17 C7VG-052TW 17吋電競筆電",
+    "category":"筆電",
+    "photos": "MSI微星 Alpha 17 C7VG-052TW 17吋電競筆電$47900.jpg",
+    "stock": 10,
+    "price": 47900,
+    "info": "MSI 微星 Alpha 17 C7VG-052TW 是一款17吋電競筆電，搭載AMD Ryzen 7 7735HS處理器、AMD Radeon RX 7600M XT顯示卡、16GB RAM和1TB SSD，具備Full HD 144Hz顯示器，提供強勁的遊戲性能和流暢的顯示效果，非常適合高端遊戲玩家和多媒體處理需求。",
+    "brand": "MSI"
+  },
+  {
+    "id": 55,
+    "name": "MSI微星 CreatorPro 16 AI Studio A1VJG-070TW 創作者筆電",
+    "category":"筆電",
+    "photos": "MSI微星 CreatorPro 16 AI Studio A1VJG-070TW 創作者筆電$74900.jpg",
+    "stock": 20,
+    "price": 74900,
+    "info": "MSI 微星 CreatorPro 16 AI Studio A1VJG-070TW 是一款16吋創作者筆電，搭載Intel Core i9-13900H處理器、NVIDIA RTX A2000顯示卡、32GB RAM和1TB SSD，具備QHD+解析度和100% DCI-P3色域顯示器，提供卓越的效能和顏色準確度，非常適合專業創意工作者，如視頻編輯、圖形設計和3D建模。",
+    "brand": "MSI"
+  },
+  {
+    "id": 56,
+    "name": "msi微星 Cyborg 15 A13VFK-831TW 15.6吋 電競筆電",
+    "category":"筆電",
+    "photos": "msi微星 Cyborg 15 A13VFK-831TW 15.6吋 電競筆電$33600.jpg",
+    "stock": 30,
+    "price": 33600,
+    "info": "",
+    "brand": "MSI"
+  },
+  {
+    "id": 57,
+    "name": "",
+    "category":"筆電",
+    "photos": "MSI微星 Prestige 16 AI Evo B1MG-007TW 16吋輕薄商務筆電$40500.jpg",
+    "stock": 50,
+    "price": 40500,
+    "info": "MSI 微星 Cyborg 15 A13VFK-831TW 是一款15.6吋電競筆電，搭載Intel Core i7-13620H處理器、NVIDIA GeForce RTX 4060顯示卡、16GB RAM和512GB SSD，具備Full HD 144Hz顯示器，提供強勁的遊戲性能和流暢的顯示效果，非常適合遊戲玩家和多媒體處理需求。",
+    "brand": "MSI"
+  },
+  {
+    "id": 58,
+    "name": "msi微星 Summit E13 AI Evo A1MTG-043TW 13.3吋 商務筆電",
+    "category":"筆電",
+    "photos": "msi微星 Summit E13 AI Evo A1MTG-043TW 13.3吋 商務筆電$39900.jpg",
+    "stock": 10,
+    "price": 39900,
+    "info": "MSI 微星 Summit E13 AI Evo A1MTG-043TW 是一款13.3吋商務筆電，搭載Intel Core i7-1360P處理器、16GB RAM和1TB SSD，具備Full HD+觸控顯示器，輕薄便攜，具備長效電池續航和高效能，非常適合商務人士的日常辦公和出差需求。",
+    "brand": "MSI"
+  },
+  {
+    "id": 59,
+    "name": "MSI微星 Sword 16 HX B14VFKG-046TW 16吋電競筆電",
+    "category":"筆電",
+    "photos": "MSI微星 Sword 16 HX B14VFKG-046TW 16吋電競筆電$45000.jpg",
+    "stock": 90,
+    "price": 45000,
+    "info": "MSI 微星 Sword 16 HX B14VFKG-046TW 是一款16吋電競筆電，搭載Intel Core i7-13700HX處理器、NVIDIA GeForce RTX 4060顯示卡、16GB RAM和1TB SSD，具備QHD 165Hz顯示器，提供強勁的遊戲性能和優異的顯示效果，非常適合高端遊戲玩家和多媒體處理需求。",
+    "brand": "MSI"
+  },
+  {
+    "id": 60,
+    "name": "msi微星 Vector 16 HX A14VHG-638TW 16吋 電競筆電",
+    "category":"筆電",
+    "photos": "msi微星 Vector 16 HX A14VHG-638TW 16吋 電競筆電 $80900.jpg",
+    "stock": 20,
+    "price": 80900,
+    "info": "MSI 微星 Vector 16 HX A14VHG-638TW 是一款16吋電競筆電，搭載Intel Core i9-13900HX處理器、NVIDIA GeForce RTX 4070顯示卡、32GB RAM和1TB SSD，具備QHD 165Hz顯示器，提供極致的遊戲性能和卓越的顯示效果，非常適合高端遊戲玩家和專業多媒體處理需求。",
+    "brand": "MSI"
+  },
+  {
+    "id": 61,
+    "name": "ASUS 華碩 ROG Ally EXTREME 512GB 遊戲掌機",
+    "category":"遊戲機",
+    "photos": "ASUS 華碩 ROG Ally EXTREME 512GB 遊戲掌機$24500.jpg",
+    "stock": 20,
+    "price": 24500,
+    "info": "ASUS 華碩 ROG Ally EXTREME 是一款高性能遊戲掌機，配備512GB存儲空間，搭載AMD Ryzen Z1 Extreme處理器和16GB RAM，具備7吋Full HD觸控顯示器，支援120Hz刷新率，提供流暢的遊戲體驗和便攜性，非常適合隨時隨地的高端遊戲需求。",
+    "brand": "Asus"
+  },
+  {
+    "id": 62,
+    "name": "MSI微星 Claw A1M-026TW 電競掌機",
+    "category":"遊戲機",
+    "photos": "MSI微星 Claw A1M-026TW 電競掌機$24300.jpg",
+    "stock": 30,
+    "price": 24300,
+    "info": "MSI 微星 Claw A1M-026TW 電競掌機，配備AMD Ryzen 7處理器和GTX 1650顯示卡，7吋Full HD觸控屏，強大續航。",
+    "brand": "Msi"
+  },
+  {
+    "id": 63,
+    "name": "PlayStation 5 SLIM版光碟主機",
+    "category":"遊戲機",
+    "photos": "PlayStation 5 SLIM版光碟主機$17500.jpg",
+    "stock": 40,
+    "price": 17500,
+    "info": "PlayStation 5 SLIM版光碟主機，具備強大性能和高效散熱設計，支持4K遊戲畫質，纖薄機身更節省空間。",
+    "brand": "Sony"
+  },
+  {
+    "id": 64,
+    "name": "Steam DeckOLED 512GB掌上型遊戲機",
+    "category":"遊戲機",
+    "photos": "Steam DeckOLED 512GB掌上型遊戲機$19980.jpg",
+    "stock": 50,
+    "price": 19980,
+    "info": "Steam Deck OLED 512GB 掌上型遊戲機，配備OLED顯示器和512GB存儲空間，提供高畫質和大容量，便於隨時隨地暢玩各類PC遊戲。",
+    "brand": "Steam"
+  },
+  {
+    "id": 65,
+    "name": "Switch OLED款式 白色 主機",
+    "category":"遊戲機",
+    "photos": "Switch OLED款式 白色 主機$12400.jpg",
+    "stock": 60,
+    "price": 12400,
+    "info": "Nintendo Switch OLED款式 白色主機，配備7吋OLED顯示器，色彩鮮豔對比度高，擁有64GB存儲空間，支援桌面和掌上模式，提供極佳的遊戲體驗。",
+    "brand": "Nintendo"
+  },
+  {
+    "id": 66,
+    "name": "Acer 宏碁 E241Y E 24型IPS電腦螢幕",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 E241Y E 24型IPS電腦螢幕 $2600.jpg",
+    "stock": 30,
+    "price": 2600,
+    "info": "Acer E241Y E 是一款24型IPS電腦螢幕，提供Full HD解析度和178度廣視角，色彩表現出色。採用無邊框設計，適合多螢幕使用，內建BlueLight Shield護眼技術，減少眼睛疲勞。",
+    "brand": "Acer"
+  },
+  {
+    "id": 67,
+    "name": "Acer 宏碁 ED270U S3 27型曲面2K電腦螢幕 AMD FreeSync",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 ED270U S3 27型曲面2K電腦螢幕 AMD FreeSync $5500.jpg",
+    "stock": 10,
+    "price": 5500,
+    "info": "Acer ED270U S3 是一款27型曲面2K電腦螢幕，搭載AMD FreeSync技術，提供流暢的遊戲體驗。2560x1440解析度和1500R曲率，帶來沉浸式視覺效果。支持144Hz刷新率，適合遊戲和影音愛好者。",
+    "brand": "Acer"
+  },
+  {
+    "id": 68,
+    "name": "Acer 宏碁 ED320QR H 32型曲面電腦螢幕 AMD FreeSync",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 ED320QR H 32型曲面電腦螢幕 AMD FreeSync $4500.jpg",
+    "stock": 40,
+    "price": 4500,
+    "info": "Acer ED320QR H 是一款32型曲面電腦螢幕，配備AMD FreeSync技術，提供流暢的遊戲體驗。1920x1080解析度和1800R曲率，帶來寬廣的視野。支持165Hz刷新率和1ms響應時間，適合競技遊戲玩家。",
+    "brand": "Acer"
+  },
+  {
+    "id": 69,
+    "name": "Acer 宏碁 EK271 E 27型IPS電腦螢幕",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 EK271 E 27型IPS電腦螢幕$2700.jpg",
+    "stock": 20,
+    "price": 2700,
+    "info": "Acer EK271 E 是一款27型IPS電腦螢幕，提供Full HD解析度和178度廣視角。採用窄邊框設計，適合多螢幕使用。內建BlueLightShield和Flicker-less技術，有效保護眼睛。75Hz刷新率，提供流暢的畫面。",
+    "brand": "Acer"
+  },
+  {
+    "id": 70,
+    "name": "Acer 宏碁 KA220Q H 22型VA電腦螢幕 AMD FreeSync",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 KA220Q H 22型VA電腦螢幕 AMD FreeSync.jpg",
+    "stock": 50,
+    "price": 5000,
+    "info": "Acer KA220Q H 是一款22型VA電腦螢幕，搭載AMD FreeSync技術，提供流暢的遊戲體驗。1920x1080解析度和178度廣視角，色彩表現出色。支持75Hz刷新率和1ms VRB響應時間，適合日常使用和輕度遊戲。",
+    "brand": "Acer"
+  },
+  {
+    "id": 71,
+    "name": "Acer 宏碁 SA322Q A 32型IPS電腦螢幕 AMD FreeSync",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 SA322Q A 32型IPS電腦螢幕 AMD FreeSync.jpg",
+    "stock": 30,
+    "price": 6000,
+    "info": "Acer SA322Q A 是一款32型IPS電腦螢幕，配備AMD FreeSync技術，提供流暢的遊戲體驗。1920x1080解析度和178度廣視角，色彩表現出色。支持75Hz刷新率，適合多媒體娛樂和日常辦公使用。",
+    "brand": "Acer"
+  },
+  {
+    "id": 72,
+    "name": "Acer 宏碁 XV240Y M3 24型IPS電腦螢幕 AMD FreeSync $3700",
+    "category": "螢幕",
+    "photos": "Acer 宏碁 XV240Y M3 24型IPS電腦螢幕 AMD FreeSync $3700.jpg",
+    "stock": 40,
+    "price": 3700,
+    "info": "Acer XV240Y M3 是一款24型IPS電腦螢幕，搭載AMD FreeSync技術，提供流暢的遊戲體驗。1920x1080解析度和178度廣視角，色彩表現出色。支持165Hz刷新率和1ms VRB響應時間，適合競技遊戲玩家使用。",
+    "brand": "Acer"
+  },
+  {
+    "id": 73,
+    "name": "ASUS ProArt Display PA328QV 31.5吋 WQHD HDR專業螢幕",
+    "category": "螢幕",
+    "photos": "ASUS ProArt Display PA328QV 31.5吋 WQHD HDR專業螢幕 $9980.jpg",
+    "stock": 40,
+    "price": 9980,
+    "info": "ASUS ProArt Display PA328QV 是一款31.5吋WQHD HDR專業螢幕，提供高解析度和HDR支援，適合專業設計和影像處理工作。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 74,
+    "name": "ASUS ROG Swift OLED PG42UQ 41.5 吋 4K 電競顯示器",
+    "category": "螢幕",
+    "photos": "ASUS ROG Swift OLED PG42UQ 41.5 吋 4K 電競顯示器 $33000.jpg",
+    "stock": 30,
+    "price": 33000,
+    "info": "ASUS ROG Swift OLED PG42UQ 是一款41.5吋4K OLED電競顯示器，提供極致的畫質和反應速度，適合高端遊戲玩家。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 75,
+    "name": "ASUS 華碩 VP32UQ 32型 4K UHD 窄邊框護眼螢幕",
+    "category": "螢幕",
+    "photos": "ASUS 華碩 VP32UQ 32型 4K UHD 窄邊框護眼螢幕 $8900.jpg",
+    "stock": 50,
+    "price": 8900,
+    "info": "ASUS VP32UQ 是一款32型4K UHD窄邊框護眼螢幕，提供高解析度和護眼功能，適合長時間工作和觀看。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 76,
+    "name": "ASUS華碩 VY279HF 27型 IPS 低藍光 不閃屏 抗菌護眼螢幕",
+    "category": "螢幕",
+    "photos": "ASUS華碩 VY279HF 27型 IPS 低藍光 不閃屏 抗菌護眼螢幕 $3600.jpg",
+    "stock": 60,
+    "price": 3600,
+    "info": "ASUS VY279HF 是一款27型IPS低藍光不閃屏抗菌護眼螢幕，提供舒適的觀看體驗，適合日常使用和辦公。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 77,
+    "name": "BenQ MOBIUZ EX3210U 32型電競螢幕 IPS 144Hz",
+    "category": "螢幕",
+    "photos": "BenQ MOBIUZ EX3210U 32型電競螢幕 IPS 144Hz $22900.jpg",
+    "stock": 35,
+    "price": 22900,
+    "info": "BenQ MOBIUZ EX3210U 是一款32型IPS 144Hz電競螢幕，提供高刷新率和優秀的色彩表現，適合競技遊戲和多媒體娛樂。",
+    "brand": "BenQ"
+  },
+  {
+    "id": 78,
+    "name": "DELL 戴爾 P2725H 27 型 169 IPS 商用 Full HD 顯示器",
+    "category": "螢幕",
+    "photos": "DELL 戴爾 P2725H 27 型 169 IPS 商用 Full HD 顯示器 $7980.jpg",
+    "stock": 45,
+    "price": 7980,
+    "info": "DELL P2725H 是一款27型16:9 IPS商用Full HD顯示器，提供穩定的畫質和舒適的觀看體驗，適合辦公環境使用。",
+    "brand": "DELL"
+  },
+  {
+    "id": 79,
+    "name": "GIGABYTE 技嘉 GS27F 27型 165Hz 1ms SS IPS 電競螢幕",
+    "category": "螢幕",
+    "photos": "GIGABYTE 技嘉 GS27F 27型 165Hz 1ms SS IPS 電競螢幕 $4390.jpg",
+    "stock": 55,
+    "price": 4390,
+    "info": "GIGABYTE GS27F 是一款27型165Hz 1ms SS IPS電競螢幕，提供高刷新率和快速響應時間，適合競技遊戲玩家。",
+    "brand": "GIGABYTE"
+  },
+  {
+    "id": 80,
+    "name": "GIGABYTEAORUS FO27Q3 27型 QD-OLED 2K電競螢幕",
+    "category": "螢幕",
+    "photos": "GIGABYTEAORUS FO27Q3 27型 QD-OLED 2K電競螢幕 $26900.jpg",
+    "stock": 25,
+    "price": 26900,
+    "info": "GIGABYTE AORUS FO27Q3 是一款27型QD-OLED 2K電競螢幕，提供卓越的畫質和色彩表現，適合高端遊戲和專業影像工作。",
+    "brand": "GIGABYTE"
+  },
+  {
+    "id": 81,
+    "name": "INZONE M9 27吋 4K 144Hz 電競螢幕",
+    "category": "螢幕",
+    "photos": "INZONE M9 27吋 4K 144Hz 電競螢幕 $24900.jpg",
+    "stock": 30,
+    "price": 24900,
+    "info": "INZONE M9 是一款27吋4K 144Hz電競螢幕，提供高解析度和高刷新率，適合追求極致畫質和流暢遊戲體驗的玩家。",
+    "brand": "INZONE"
+  },
+  {
+    "id": 82,
+    "name": "LG 樂金】27GS95QE-B 27型 UltraGear QHD OLED 240Hz",
+    "category": "螢幕",
+    "photos": "LG 樂金】27GS95QE-B 27型 UltraGear QHD OLED 240Hz  $29000.jpg",
+    "stock": 20,
+    "price": 29000,
+    "info": "LG 27GS95QE-B 是一款27型UltraGear QHD OLED 240Hz螢幕，提供極致的畫質和超高刷新率，適合專業電競玩家。",
+    "brand": "LG"
+  },
+  {
+    "id": 83,
+    "name": "msi微星 G27C4X 27吋 曲面電競螢幕",
+    "category": "螢幕",
+    "photos": "msi微星 G27C4X 27吋 曲面電競螢幕 $5500.jpg",
+    "stock": 40,
+    "price": 5500,
+    "info": "MSI G27C4X 是一款27吋曲面電競螢幕，提供沉浸式的遊戲體驗，適合喜歡曲面顯示器的遊戲玩家。",
+    "brand": "MSI"
+  },
+  {
+    "id": 84,
+    "name": "MSI微星 MAG 274UPF E2 27型 4K 160Hz HDR電競螢幕",
+    "category": "螢幕",
+    "photos": "MSI微星 MAG 274UPF E2 27型 4K 160Hz HDR電競螢幕 $14900.jpg",
+    "stock": 35,
+    "price": 14900,
+    "info": "MSI MAG 274UPF E2 是一款27型4K 160Hz HDR電競螢幕，提供高解析度、高刷新率和HDR支援，適合追求高品質遊戲體驗的玩家。",
+    "brand": "MSI"
+  },
+  {
+    "id": 85,
+    "name": "SAMSUNG 三星 Odyssey G6 1000R 32型 2K 曲面電競顯示器(S32BG650EC)",
+    "category": "螢幕",
+    "photos": "SAMSUNG 三星 Odyssey G6 1000R 32型 2K 曲面電競顯示器(S32BG650EC)$18900.jpg",
+    "stock": 30,
+    "price": 18900,
+    "info": "Samsung Odyssey G6 是一款32型2K 1000R曲面電競顯示器，提供極致的沉浸感和流暢的遊戲體驗，適合追求高品質遊戲畫面的玩家。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 86,
+    "name": "SAMSUNG 三星 ViewFinity S6 Ultra WQHD 34吋 曲面顯示器(S34C652UAC)",
+    "category": "螢幕",
+    "photos": "SAMSUNG 三星 ViewFinity S6 Ultra WQHD 34吋 曲面顯示器(S34C652UAC)$15000.jpg",
+    "stock": 25,
+    "price": 15000,
+    "info": "Samsung ViewFinity S6 Ultra 是一款34吋WQHD曲面顯示器，提供寬廣的視野和出色的色彩表現，適合專業工作和多任務處理。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 87,
+    "name": "ASUS 華碩 TUF Gaming VG249Q3A 24型 IPS",
+    "category": "螢幕",
+    "photos": "SUS 華碩 TUF Gaming VG249Q3A 24型 IPS $3800.jpg",
+    "stock": 50,
+    "price": 3800,
+    "info": "ASUS TUF Gaming VG249Q3A 是一款24型IPS電競螢幕，提供優秀的色彩表現和快速響應時間，適合入門級電競玩家。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 88,
+    "name": "ViewSonic ColorPro VP2756-2K 27型 2K 專業螢幕",
+    "category": "螢幕",
+    "photos": "ViewSonic ColorPro VP2756-2K 27型 2K 專業螢幕 $11600.jpg",
+    "stock": 30,
+    "price": 11600,
+    "info": "ViewSonic ColorPro VP2756-2K 是一款27型2K專業螢幕，提供高色彩準確度和廣色域，適合專業設計和影像處理工作。",
+    "brand": "ViewSonic"
+  },
+  {
+    "id": 89,
+    "name": "ViewSonic VA2215H-100 22型 FHD窄邊框螢幕",
+    "category": "螢幕",
+    "photos": "ViewSonic VA2215H-100 22型 FHD窄邊框螢 幕$2480.jpg",
+    "stock": 60,
+    "price": 2480,
+    "info": "ViewSonic VA2215H-100 是一款22型FHD窄邊框螢幕，提供清晰的畫質和簡潔的設計，適合日常使用和辦公環境。",
+    "brand": "ViewSonic"
+  },
+  {
+    "id": 90,
+    "name": "ViewSonic VX3276-2K-mhd-2 32型 2K IPS美型無邊框電腦螢幕",
+    "category": "螢幕",
+    "photos": "ViewSonic VX3276-2K-mhd-2 32型 2K IPS美型無邊框電腦螢幕 $7000.jpg",
+    "stock": 40,
+    "price": 7000,
+    "info": "ViewSonic VX3276-2K-mhd-2 是一款32型2K IPS美型無邊框電腦螢幕，提供寬廣的視野和優秀的畫質，適合多媒體娛樂和專業工作。",
+    "brand": "ViewSonic"
+  },
+  {
+    "id": 91,
+    "name": "技嘉 GIGABYTE GS34WQC 34型 電競螢幕",
+    "category": "螢幕",
+    "photos": "技嘉 GIGABYTE GS34WQC 34型 電競螢幕 $8990.jpg",
+    "stock": 35,
+    "price": 8990,
+    "info": "GIGABYTE GS34WQC 是一款34型超寬曲面電競螢幕，提供 3440x1440 解析度和 144Hz 刷新率。它具有 1500R 曲率，帶來沉浸式的遊戲體驗，支持 AMD FreeSync Premium 技術，確保流暢無撕裂的畫面。螢幕還配備 1ms MPRT 響應時間，HDR 功能，以及 90% DCI-P3 色域覆蓋率，適合追求高品質遊戲體驗和多工處理的玩家。",
+    "brand": "GIGABYTE"
+  },
+  {
+    "id": 92,
+    "name": "技嘉GIGABYTE M32U 32型 電競螢幕",
+    "category": "螢幕",
+    "photos": "技嘉GIGABYTE M32U 32型 電競螢幕 144Hz IPS HBR3 真4K $20900.jpg",
+    "stock": 30,
+    "price": 20900,
+    "info": "GIGABYTE M32U 是一款32型4K電競螢幕，採用IPS面板，提供3840x2160的超高解析度和144Hz刷新率。它支持HBR3高頻寬傳輸技術，確保4K高解析度下的高刷新率表現。螢幕具備1ms GTG響應時間，支持AMD FreeSync Premium Pro技術，提供流暢無撕裂的遊戲體驗。此外，它還支持HDR400，提供更寬廣的動態範圍和更豐富的色彩表現。M32U適合追求高畫質和高刷新率的遊戲玩家，也適用於需要高解析度和準確色彩的專業工作。",
+    "brand": "GIGABYTE"
+  },
+  {
+    "id": 93,
+    "name": "ASUS ROG Strix OLED XG27AQDMG 27吋電競螢幕",
+    "category": "螢幕",
+    "photos": "ROG Strix OLED XG27AQDMG $25000.png",
+    "stock": 25,
+    "price": 25000,
+    "info": "ASUS ROG Strix OLED XG27AQDMG 是一款27吋OLED電競螢幕，提供卓越的畫質和極快的響應時間。它可能具有2K或4K解析度，高刷新率（可能是144Hz或更高），並支持HDR。作為ROG系列產品，它針對遊戲優化，可能支持NVIDIA G-Sync或AMD FreeSync技術，適合追求極致畫質和性能的遊戲玩家。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 94,
+    "name": "ASUS ROG Strix XG49WCR 49吋超寬曲面電競螢幕",
+    "category": "螢幕",
+    "photos": "ROG Strix XG49WCR$29000.png",
+    "stock": 20,
+    "price": 29000,
+    "info": "ASUS ROG Strix XG49WCR 是一款49吋超寬曲面電競螢幕，提供沉浸式的遊戲體驗。它可能具有5120x1440的雙QHD解析度，高刷新率（可能是144Hz或更高），並支持HDR。作為ROG系列產品，它針對遊戲優化，可能支持NVIDIA G-Sync或AMD FreeSync技術，適合需要大屏幕和多任務處理的遊戲玩家和專業用戶。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 95,
+    "name": "SAMSUNG 三星 ViewFinity S9 5K 27吋高解析度平面顯示器(S27C900PAC)",
+    "category": "螢幕",
+    "photos": "SAMSUNG 三星 ViewFinity S9 5K 27吋 5K 高解析度平面顯示器(S27C900PAC) $39900.jpg",
+    "stock": 15,
+    "price": 39900,
+    "info": "Samsung ViewFinity S9 是一款27吋5K高解析度平面顯示器，提供驚人的5120x2880解析度。它可能具有優秀的色彩準確度和廣色域覆薯，適合專業的圖像和視頻編輯工作。這款顯示器可能支持HDR，並具有多種連接選項，如Thunderbolt 3/USB-C。它特別適合需要極高解析度和色彩精準度的創意專業人士。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 96,
+    "name": "2022 Apple iPad Pro 11吋 Wi-Fi 256G 平板電腦",
+    "category": "平板",
+    "photos": "2022 Apple iPad Pro 11吋 Wi-Fi 256G 平板電腦 $31400.jpg",
+    "stock": 15,
+    "price": 31400,
+    "info": "2022年款iPad Pro，搭載M2晶片，11吋Liquid Retina顯示器，256GB儲存空間，支援Wi-Fi 6E，適合專業人士和高效能需求用戶。",
+    "brand": "Apple"
+  },
+  {
+    "id": 97,
+    "name": "Acer Iconia Tab M10 LTE 10.1吋 4G/64G 平板電腦",
+    "category": "平板",
+    "photos": "Acer Iconia Tab M10 LTE 10.1吋 4G64G 平板電腦$5990.jpg",
+    "stock": 15,
+    "price": 5990,
+    "info": "Acer Iconia Tab M10 LTE版，10.1吋顯示器，4GB RAM，64GB儲存空間，支援4G LTE網絡，適合移動辦公和娛樂使用。",
+    "brand": "Acer"
+  },
+  {
+    "id": 98,
+    "name": "Acer 宏碁 Iconia Tab P10 10.4吋 2K WI-FI 平板電腦",
+    "category": "平板",
+    "photos": "Acer 宏碁 Iconia Tab P10 10.4吋 2K WI-FI 平板電腦 $5990.jpg",
+    "stock": 15,
+    "price": 5990,
+    "info": "Acer Iconia Tab P10，10.4吋2K解析度顯示器，支援Wi-Fi，提供清晰的視覺體驗，適合日常使用和多媒體娛樂。",
+    "brand": "Acer"
+  },
+  {
+    "id": 99,
+    "name": "Acer 宏碁 Iconia Tab P11 11吋 2K 平板電腦 (MT8788/8G/128G/WI-FI)",
+    "category": "平板",
+    "photos": "Acer 宏碁 Iconia Tab P11 11吋 2K 平板電腦 (MT87818G128GWI-FI)$3650.jpg",
+    "stock": 15,
+    "price": 3650,
+    "info": "Acer Iconia Tab P11，11吋2K解析度顯示器，搭載MT8788處理器，8GB RAM，128GB儲存空間，支援Wi-Fi，適合工作和娛樂使用。",
+    "brand": "Acer"
+  },
+  {
+    "id": 100,
+    "name": "Acer 宏碁 IconiaTab M10 10.1吋平板電腦",
+    "category": "平板",
+    "photos": "Acer 宏碁 IconiaTab M10 10.1吋平板電腦$5290.jpg",
+    "stock": 15,
+    "price": 5290,
+    "info": "Acer IconiaTab M10，10.1吋顯示器，提供基本的平板功能，適合日常瀏覽網頁、看影片等輕度使用需求。",
+    "brand": "Acer"
+  },
+  {
+    "id": 101,
+    "name": "Apple 2021 iPad mini 6 Wi-Fi 64G 8.3吋 平板電腦",
+    "category": "平板",
+    "photos": "Apple 2021 iPad mini 6 Wi-Fi 64G 8.3吋 平板電腦 $16900.jpg",
+    "stock": 15,
+    "price": 16900,
+    "info": "2021年款iPad mini，8.3吋Liquid Retina顯示器，A15仿生晶片，64GB儲存空間，支援Wi-Fi 6，輕巧便攜，適合需要移動性的用戶。",
+    "brand": "Apple"
+  },
+  {
+    "id": 102,
+    "name": "Apple 2024 iPad Air M2晶片 11吋 128G WiFi平板電腦",
+    "category": "平板",
+    "photos": "Apple 2024 iPad Air M2晶片 11吋 128G WiFi平板電腦$19900.jpg",
+    "stock": 15,
+    "price": 19900,
+    "info": "2024年款iPad Air，搭載M2晶片，11吋Liquid Retina顯示器，128GB儲存空間，支援Wi-Fi 6E，提供強大性能和出色顯示效果。",
+    "brand": "Apple"
+  },
+  {
+    "id": 103,
+    "name": "Apple 2024 iPad Pro M4 (11吋 256GB WiFi) 平板電腦",
+    "category": "平板",
+    "photos": "Apple 2024 iPad Pro M4 (11吋  256GB  WiFi) 平板電腦$34500.jpg",
+    "stock": 15,
+    "price": 34500,
+    "info": "2024年款iPad Pro，搭載M4晶片，11吋Liquid Retina XDR顯示器，256GB儲存空間，支援Wi-Fi 6E，提供頂級性能和專業級功能。",
+    "brand": "Apple"
+  },
+  {
+    "id": 104,
+    "name": "Apple iPad Air (11 吋) (M2) Wi-Fi 256GB(2024) 平板電腦",
+    "category": "平板",
+    "photos": "Apple iPad Air (11 吋) (M2) Wi-Fi 256GB(2024) 平板電腦$23400.jpg",
+    "stock": 15,
+    "price": 23400,
+    "info": "2024年款iPad Air，搭載M2晶片，11吋Liquid Retina顯示器，256GB儲存空間，支援Wi-Fi 6E，提供更大儲存容量和出色性能。",
+    "brand": "Apple"
+  },
+  {
+    "id": 105,
+    "name": "Apple蘋果 2021 iPad 9 (10.2吋 ＷiFi 64G)",
+    "category": "平板",
+    "photos": "Apple蘋果 2021 iPad 9 (10.2吋  ＷiFi  64G) $9390.jpg",
+    "stock": 15,
+    "price": 9390,
+    "info": "2021年款iPad 9代，10.2吋Retina顯示器，A13仿生晶片，64GB儲存空間，支援Wi-Fi，適合日常使用和學習需求。",
+    "brand": "Apple"
+  },
+  {
+    "id": 106,
+    "name": "Lenovo聯想 Tab M8 4th Gen 4G/64G 8吋平板電腦 WiFi (TB300FU)",
+    "category": "平板",
+    "photos": "Lenovo聯想 Tab M8 4th Gen 4G64G 8吋平板電腦 WiFi (TB300FU)$3680.jpg",
+    "stock": 15,
+    "price": 3680,
+    "info": "Lenovo Tab M8第4代，8吋HD顯示器，4GB RAM，64GB儲存空間，支援Wi-Fi，輕巧便攜，適合基本的娛樂和瀏覽需求。",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 107,
+    "name": "M1晶片 2022 Apple iPad Air 5代 10.9吋 256G WiFi",
+    "category": "平板",
+    "photos": "M1晶片 2022 Apple iPad Air 5代 10.9吋 256G WiFi $20990.jpg",
+    "stock": 15,
+    "price": 20990,
+    "info": "2022年款iPad Air 5代，搭載M1晶片，10.9吋Liquid Retina顯示器，256GB儲存空間，支援Wi-Fi 6，提供強大性能和大容量儲存。",
+    "brand": "Apple"
+  },
+  {
+    "id": 108,
+    "name": "Microsoft 微軟Surface Pro 第11版 Snapdragon X Elite 16G/512G 白金平板 ZIA-00016(不含鍵盤、筆)",
+    "category": "平板",
+    "photos": "Microsoft 微軟Surface Pro 第11版 Snapdragon X Elite16G512G 白金平板ZIA-00016(不含鍵盤、筆)$54800.jpg",
+    "stock": 15,
+    "price": 54800,
+    "info": "Microsoft Surface Pro 第11代，搭載Snapdragon X Elite處理器，16GB RAM，512GB SSD，提供高效能和Windows體驗，適合專業人士使用。",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 109,
+    "name": "Samsung Galaxy Tab S9 Ultra 鍵盤套裝組 X910 12G/256G Wi-Fi 14.6吋 八核 平板電腦",
+    "category": "平板",
+    "photos": "Samsung Galaxy Tab S9 Ultra 鍵盤套裝組 X910 12G256G Wi-Fi 14.6吋 八核 平板電腦$43900.jpg",
+    "stock": 15,
+    "price": 43900,
+    "info": "Samsung Galaxy Tab S9 Ultra，14.6吋Super AMOLED顯示器，12GB RAM，256GB儲存空間，搭配鍵盤套裝，支援Wi-Fi 6E，適合高效工作和創意需求。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 110,
+    "name": "Samsung Galaxy Tab S9 X710 8G/128G Wi-Fi 11吋 八核 平板電腦",
+    "category": "平板",
+    "photos": "Samsung Galaxy Tab S9 X710 8G128G Wi-Fi 11吋 八核 平板電腦$22890.jpg",
+    "stock": 15,
+    "price": 22890,
+    "info": "Samsung Galaxy Tab S9，11吋Dynamic AMOLED 2X顯示器，8GB RAM，128GB儲存空間，支援Wi-Fi 6E，提供優質的顯示效果和性能。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 111,
+    "name": "Samsung 三星 Galaxy Tab A9+ X210 11吋平板電腦",
+    "category": "平板",
+    "photos": "Samsung 三星 Galaxy Tab A9+ X210 11吋平板電腦$5870.jpg",
+    "stock": 15,
+    "price": 5870,
+    "info": "Samsung Galaxy Tab A9+，11吋顯示器，提供基本的平板功能，適合日常娛樂和輕度工作使用。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 112,
+    "name": "Samsung 三星 Tab S9 Ultra 14.6吋 平板電腦 Wi-Fi 鍵盤套裝組 (12G/256G/X910)",
+    "category": "平板",
+    "photos": "Samsung 三星 Tab S9 Ultra 14.6吋 平板電腦 Wi-Fi 鍵盤套裝組 (12G256GX910)$41900.jpg",
+    "stock": 15,
+    "price": 41900,
+    "info": "Samsung Galaxy Tab S9 Ultra，14.6吋Dynamic AMOLED 2X顯示器，12GB RAM，256GB儲存空間，搭配鍵盤套裝，支援Wi-Fi 6E，適合專業工作和創意應用。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 113,
+    "name": "TCL NXTPAPER 11 11吋 WiFi 4G/128G 平板電腦+T-Pen手寫筆",
+    "category": "平板",
+    "photos": "TCL NXTPAPER 11 11吋 WiFi 4G128G 平板電腦+T-Pen手寫筆$7990.jpg",
+    "stock": 15,
+    "price": 7990,
+    "info": "TCL NXTPAPER 11，11吋顯示器，4GB RAM，128GB儲存空間，支援WiFi，搭配T-Pen手寫筆，特殊的紙感螢幕技術，適合閱讀和繪圖使用。",
+    "brand": "TCL"
+  },
+  {
+    "id": 114,
+    "name": "TCL TAB 10 Gen 2 10.4吋 WiFi (4G/128G) 平板電腦",
+    "category": "平板",
+    "photos": "TCL TAB 10 Gen 2 10.4吋 WiFi (4G128G) 平板電腦$5980.jpg",
+    "stock": 15,
+    "price": 5980,
+    "info": "TCL TAB 10 Gen 2，10.4吋顯示器，4GB RAM，128GB儲存空間，支援WiFi，提供基本的平板功能，適合日常娛樂和輕度工作使用。",
+    "brand": "TCL"
+  },
+  {
+    "id": 115,
+    "name": "TCL TAB 10L Gen2 10.1吋 3G+32G WiFi 平板電腦",
+    "category": "平板",
+    "photos": "TCL TAB 10L Gen2 10.1吋 3G+32G WiFi 平板電腦$3990.jpg",
+    "stock": 15,
+    "price": 3990,
+    "info": "TCL TAB 10L Gen2，10.1吋顯示器，3GB RAM，32GB儲存空間，支援WiFi，提供基本的平板功能，適合簡單的娛樂和瀏覽需求。",
+    "brand": "TCL"
+  },
+  {
+    "id": 116,
+    "name": "Xiaomi 小米 Pad 6 (8G/256G) WIFI",
+    "category": "平板",
+    "photos": "Xiaomi 小米 Pad 6 (8G256G) WIFI$10500.jpg",
+    "stock": 15,
+    "price": 10500,
+    "info": "小米 Pad 6，搭載高通驍龍處理器，8GB RAM，256GB儲存空間，支援WiFi 6，提供優秀的性能和大容量儲存，適合娛樂和工作使用。",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 117,
+    "name": "紅米 Redmi Pad SE (8G/256G) WIFI 11吋 平板電腦",
+    "category": "平板",
+    "photos": "紅米 Redmi Pad SE (8G256G) WIFI 11吋 平板電腦$4990.jpg",
+    "stock": 15,
+    "price": 4990,
+    "info": "紅米 Redmi Pad SE，11吋顯示器，8GB RAM，256GB儲存空間，支援WiFi，提供良好的性能和大容量儲存，適合日常娛樂和輕度工作使用。",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 118,
+    "name": "微軟Surface Pro 9 i5 8G 128G 白金平板觸控電腦",
+    "category": "平板",
+    "photos": "微軟Surface Pro 9 i5 8G 128G 白金平板觸控電腦3$45000.jpg",
+    "stock": 15,
+    "price": 45000,
+    "info": "Surface Pro 9，搭載Intel Core i5處理器，8GB RAM，128GB SSD，提供完整的Windows體驗，適合專業工作和學習使用。",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 119,
+    "name": "微軟Surface Pro 9 i5 8G 256G EVO 森林綠平板QEZ-00067",
+    "category": "平板",
+    "photos": "微軟Surface Pro 9 i5 8G 256G EVO 森林綠平板QEZ-00067$28000.jpg",
+    "stock": 15,
+    "price": 28000,
+    "info": "Surface Pro 9，搭載Intel Core i5 EVO處理器，8GB RAM，256GB SSD，森林綠色外觀，提供高效能和時尚設計，適合專業人士使用。",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 120,
+    "name": "Apple iPad Air 2 LTE 64G 9.7吋平板電腦",
+    "category": "平板",
+    "photos": "Apple iPad Air 2 LTE 64G 9.7吋平板電腦$5990.jpg",
+    "stock": 15,
+    "price": 5990,
+    "info": "iPad Air 2，9.7吋Retina顯示器，64GB儲存空間，支援LTE網絡，雖然是較早的型號，但仍然適合基本的瀏覽和娛樂需求。",
+    "brand": "Apple"
+  },
+  {
+    "id": 121,
+    "name": "Apple iPad 第10代 (2022) Wifi 10.9吋 平板",
+    "category": "平板",
+    "photos": "Apple iPad 第10代 (2022) Wifi 10.9吋 平板 $11388.jfif",
+    "stock": 20,
+    "price": 11388,
+    "info": "Apple iPad 第10代（2022年款），10.9吋Liquid Retina顯示器，A14仿生晶片，支援Wi-Fi 6，全新設計，適合日常使用、學習和娛樂。",
+    "brand": "Apple"
+  },
+  {
+    "id": 122,
+    "name": "HUAWEI MatePad 11.5 S7Gen1 6G/128G",
+    "category": "平板",
+    "photos": "HUAWEI  MatePad 11.5 S7Gen1 6G128G$8490.jfif",
+    "stock": 25,
+    "price": 8490,
+    "info": "HUAWEI MatePad 11.5，搭載Snapdragon 7 Gen 1處理器，6GB RAM，128GB儲存空間，11.5吋高解析度顯示器，適合工作和娛樂使用。",
+    "brand": "HUAWEI"
+  },
+  {
+    "id": 123,
+    "name": "Lenovo 聯想 Tab M8 4th Gen TB300 8吋 4G/64G 平板",
+    "category": "平板",
+    "photos": "Lenovo 聯想 Tab M8 4th Gen TB300 8吋 4G64G 平板$3990.jfif",
+    "stock": 30,
+    "price": 3990,
+    "info": "Lenovo Tab M8 第4代，8吋HD顯示器，4GB RAM，64GB儲存空間，輕巧便攜，適合基本的娛樂和瀏覽需求。",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 124,
+    "name": "Acer Iconia Tab P10 P10-11-K8WA Android 平板",
+    "category": "平板",
+    "photos": "Iconia Tab P10 P10-11-K8WA Android 平板$6760.png",
+    "stock": 15,
+    "price": 6760,
+    "info": "Acer Iconia Tab P10，Android系統，提供流暢的使用體驗，適合日常娛樂和輕度工作使用。具體規格可能包括高解析度顯示器和足夠的處理能力。",
+    "brand": "Acer"
+  },
+  {
+    "id": 125,
+    "name": "華為 HUAWEI MatePad 11.5 WiFi 6G/128G 11.5吋 平板電腦",
+    "category": "平板",
+    "photos": "華為 HUAWEI MatePad 11.5 WiFi 6G128G 11.5吋 平板電腦$8100.jpeg",
+    "stock": 20,
+    "price": 8100,
+    "info": "HUAWEI MatePad 11.5，11.5吋高解析度顯示器，6GB RAM，128GB儲存空間，支援Wi-Fi 6，提供出色的顯示效果和性能，適合工作和娛樂使用。",
+    "brand": "HUAWEI"
+  },
+  {
+    "id": 126,
+    "name": "高音質藍牙耳機 Pro",
+    "category": "耳機",
+    "photos": "1.webp",
+    "stock": 50,
+    "price": 3999,
+    "info": "高音質藍牙耳機 Pro 提供卓越的音質體驗，配備主動降噪功能，電池續航時間長達20小時。適合音樂愛好者和經常出差的專業人士。",
+    "brand": "Sony"
+  },
+  {
+    "id": 127,
+    "name": "運動型防水藍牙耳機",
+    "category": "耳機",
+    "photos": "2.webp",
+    "stock": 75,
+    "price": 1599,
+    "info": "運動型防水藍牙耳機，IPX7防水等級，適合各種戶外運動和健身活動。舒適的入耳式設計，提供穩定佩戴體驗。",
+    "brand": "Samsung"
+  },
+  {
+    "id": 128,
+    "name": "時尚輕巧藍牙耳機",
+    "category": "耳機",
+    "photos": "3.webp",
+    "stock": 100,
+    "price": 999,
+    "info": "時尚輕巧藍牙耳機，重量僅5克，適合長時間佩戴。支持快速充電，15分鐘充電可使用2小時。提供多種時尚顏色選擇。",
+    "brand": "Apple"
+  },
+  {
+    "id": 129,
+    "name": "遊戲專用低延遲藍牙耳機",
+    "category": "耳機",
+    "photos": "4.webp",
+    "stock": 60,
+    "price": 2499,
+    "info": "遊戲專用低延遲藍牙耳機，延遲低至40ms，提供即時音頻反饋。配備高清麥克風，適合遊戲玩家和直播主播使用。",
+    "brand": "ASUS"
+  },
+  {
+    "id": 130,
+    "name": "商務通話藍牙耳機",
+    "category": "耳機",
+    "photos": "5.webp",
+    "stock": 80,
+    "price": 1799,
+    "info": "商務通話藍牙耳機，配備四麥克風降噪系統，確保通話清晰。支持多點連接，可同時連接兩台設備。適合商務人士使用。",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 131,
+    "name": "Hi-Fi音質藍牙耳機",
+    "category": "耳機",
+    "photos": "6.webp",
+    "stock": 40,
+    "price": 4999,
+    "info": "Hi-Fi音質藍牙耳機，支持LDAC編碼，提供近乎無損的音質體驗。採用鈦金屬振膜，還原細膩音色。適合發燒友和音樂專業人士。",
+    "brand": "LG"
+  },
+  {
+    "id": 132,
+    "name": "兒童安全藍牙耳機",
+    "category": "耳機",
+    "photos": "7.webp",
+    "stock": 90,
+    "price": 799,
+    "info": "兒童安全藍牙耳機，音量限制在85分貝以下，保護兒童聽力。採用柔軟材質和防夾設計，確保使用安全。提供有趣的卡通圖案。",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 133,
+    "name": "智能翻譯藍牙耳機",
+    "category": "耳機",
+    "photos": "8.webp",
+    "stock": 30,
+    "price": 3599,
+    "info": "智能翻譯藍牙耳機，支持40種語言即時翻譯。配備觸控操作和智能語音助手，方便旅行和國際交流使用。",
+    "brand": "HUAWEI"
+  },
+  {
+    "id": 134,
+    "name": "骨傳導藍牙耳機",
+    "category": "耳機",
+    "photos": "9.webp",
+    "stock": 55,
+    "price": 2299,
+    "info": "骨傳導藍牙耳機，不遮擋耳朵，保持對周圍環境的感知。防水設計，適合運動和戶外活動。特別適合需要保持環境音的場景。",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 135,
+    "name": "超長續航藍牙耳機",
+    "category": "耳機",
+    "photos": "10.webp",
+    "stock": 70,
+    "price": 1999,
+    "info": "超長續航藍牙耳機，單次充電可使用40小時。配備快速充電功能，10分鐘充電可使用3小時。大容量電池倉可為手機充電。",
+    "brand": "Acer"
+  },
+  
+    {
+      "id": 136,
+      "name": "高解析度耳罩式耳機",
+      "category": "耳機",
+      "photos": "11.webp",
+      "stock": 40,
+      "price": 5999,
+      "info": "高解析度耳罩式耳機，採用50mm大口徑驅動單元，支持Hi-Res Audio認證。舒適的記憶海綿耳罩，適合長時間佩戴。適合音樂發燒友和專業音頻工作者。",
+      "brand": "Sony"
+    },
+    {
+      "id": 137,
+      "name": "主動降噪耳罩式耳機",
+      "category": "耳機",
+      "photos": "12.webp",
+      "stock": 55,
+      "price": 4599,
+      "info": "主動降噪耳罩式耳機，採用先進的降噪技術，可降低高達35dB的環境噪音。無線設計，電池續航時間長達30小時。適合飛行旅行和嘈雜環境使用。",
+      "brand": "Bose"
+    },
+    {
+      "id": 138,
+      "name": "專業監聽耳罩式耳機",
+      "category": "耳機",
+      "photos": "13.webp",
+      "stock": 30,
+      "price": 3799,
+      "info": "專業監聽耳罩式耳機，提供平衡準確的音頻還原。封閉式設計提供出色的隔音效果。可拆卸線材設計，適合錄音室和現場表演使用。",
+      "brand": "Audio-Technica"
+    },
+    {
+      "id": 139,
+      "name": "遊戲專用耳罩式耳機",
+      "category": "耳機",
+      "photos": "14.webp",
+      "stock": 65,
+      "price": 2999,
+      "info": "遊戲專用耳罩式耳機，配備7.1虛擬環繞音效和可拆卸麥克風。RGB燈效設計，兼容多平台。舒適的耳罩設計適合長時間遊戲會話。",
+      "brand": "ASUS"
+    },
+    {
+      "id": 140,
+      "name": "時尚輕量耳罩式耳機",
+      "category": "耳機",
+      "photos": "15.webp",
+      "stock": 80,
+      "price": 1999,
+      "info": "時尚輕量耳罩式耳機，重量僅250克，適合日常通勤使用。採用可折疊設計，方便攜帶。內置麥克風支持通話功能。多色可選。",
+      "brand": "Urbanears"
+    },
+    {
+      "id": 141,
+      "name": "無線藍牙耳罩式耳機",
+      "category": "耳機",
+      "photos": "16.webp",
+      "stock": 70,
+      "price": 3499,
+      "info": "無線藍牙耳罩式耳機，支持aptX HD編碼，提供高品質無線音頻。觸控操作設計，內置智能語音助手。續航時間長達25小時。",
+      "brand": "Samsung"
+    },
+    {
+      "id": 142,
+      "name": "復古設計耳罩式耳機",
+      "category": "耳機",
+      "photos": "17.webp",
+      "stock": 35,
+      "price": 4299,
+      "info": "復古設計耳罩式耳機，採用實木外殼和金屬框架。40mm鈦合金振膜提供清晰細膩的音質。可更換耳罩設計，兼具美觀和實用性。",
+      "brand": "Grado"
+    },
+    {
+      "id": 143,
+      "name": "運動防水耳罩式耳機",
+      "category": "耳機",
+      "photos": "18.webp",
+      "stock": 50,
+      "price": 2599,
+      "info": "運動防水耳罩式耳機，IPX5防水等級，適合戶外和健身房使用。採用透氣材料，即使運動也保持舒適。內置心率監測功能。",
+      "brand": "Jabra"
+    },
+    {
+      "id": 144,
+      "name": "商務會議耳罩式耳機",
+      "category": "耳機",
+      "photos": "19.webp",
+      "stock": 45,
+      "price": 3299,
+      "info": "商務會議耳罩式耳機，配備高清麥克風和主動降噪功能。支持多點連接，可同時連接兩台設備。舒適的皮革耳罩，適合長時間佩戴。",
+      "brand": "Microsoft"
+    },
+    {
+      "id": 145,
+      "name": "開放式耳罩耳機",
+      "category": "耳機",
+      "photos": "20.webp",
+      "stock": 25,
+      "price": 5499,
+      "info": "開放式耳罩耳機，提供寬廣的聲場和自然的音色。50mm釹磁鐵驅動單元，確保高保真音質。適合家庭聆聽和音樂鑑賞。",
+      "brand": "Sennheiser"
+    },
+    {
+      "id": 146,
+      "name": "專業錄音室監聽有線耳機",
+      "category": "耳機",
+      "photos": "21.jpg",
+      "stock": 30,
+      "price": 4999,
+      "info": "專業錄音室監聽有線耳機，採用50mm釹磁鐵驅動單元，提供精準的音頻還原。閉合式設計提供出色的隔音效果。可更換線纜設計，適合專業音頻工作者使用。",
+      "brand": "Audio-Technica"
+    },
+    {
+      "id": 147,
+      "name": "高保真音樂欣賞有線耳機",
+      "category": "耳機",
+      "photos": "22.jpg",
+      "stock": 40,
+      "price": 3799,
+      "info": "高保真音樂欣賞有線耳機，採用平面磁性驅動單元，提供寬廣的頻率響應和低失真音質。開放式設計帶來自然的聲場，適合家庭音樂鑑賞。",
+      "brand": "HiFiMan"
+    },
+    {
+      "id": 148,
+      "name": "入門級監聽有線耳機",
+      "category": "耳機",
+      "photos": "23.jpg",
+      "stock": 60,
+      "price": 1599,
+      "info": "入門級監聽有線耳機，提供平衡的音頻輸出，適合初學者和預算有限的音樂製作愛好者。耐用的結構設計，舒適的耳罩適合長時間佩戴。",
+      "brand": "Sony"
+    },
+    {
+      "id": 149,
+      "name": "運動防汗有線耳機",
+      "category": "耳機",
+      "photos": "24.jpg",
+      "stock": 80,
+      "price": 899,
+      "info": "運動防汗有線耳機，採用IPX4防水設計，適合健身和戶外運動使用。符合人體工學的耳掛設計，確保穩固佩戴。內置麥克風支持通話功能。",
+      "brand": "JBL"
+    },
+    {
+      "id": 150,
+      "name": "高端發燒友有線耳機",
+      "category": "耳機",
+      "photos": "25.webp",
+      "stock": 20,
+      "price": 9999,
+      "info": "高端發燒友有線耳機，採用獨特的靜電驅動技術，提供極致透明的音質。全手工製作，使用頂級材料。配備專用擴大機，適合追求極致音質的發燒友。",
+      "brand": "Stax"
+    },
+    {
+      "id": 151,
+      "name": "經典復古風有線耳機",
+      "category": "耳機",
+      "photos": "26.jfif",
+      "stock": 35,
+      "price": 2999,
+      "info": "經典復古風有線耳機，採用木質外殼和金屬框架，呈現獨特的復古美學。40mm動圈單元提供溫潤的音色。適合追求個性化風格的音樂愛好者。",
+      "brand": "Grado"
+    },
+    {
+      "id": 152,
+      "name": "遊戲競技有線耳機",
+      "category": "耳機",
+      "photos": "27.webp",
+      "stock": 70,
+      "price": 1799,
+      "info": "遊戲競技有線耳機，配備高精度50mm驅動單元和可拆卸麥克風。提供清晰的腳步聲和環境音效定位。舒適的耳罩設計適合長時間遊戲。兼容多平台。",
+      "brand": "ASUS"
+    },
+    {
+      "id": 153,
+      "name": "便攜式折疊有線耳機",
+      "category": "耳機",
+      "photos": "28.jpg",
+      "stock": 55,
+      "price": 1299,
+      "info": "便攜式折疊有線耳機，採用輕量化設計，方便攜帶。可折疊結構節省空間。提供清晰均衡的音質，適合通勤和旅行使用。內置麥克風支持通話。",
+      "brand": "AKG"
+    },
+    {
+      "id": 154,
+      "name": "專業DJ監聽有線耳機",
+      "category": "耳機",
+      "photos": "29.jpg",
+      "stock": 25,
+      "price": 3599,
+      "info": "專業DJ監聽有線耳機，提供高輸出和出色的隔音效果。旋轉耳罩設計便於單耳監聽。耐用的金屬結構適應現場使用環境。可更換線纜和耳罩。",
+      "brand": "Sennheiser"
+    },
+    {
+      "id": 155,
+      "name": "高性價比入門有線耳機",
+      "category": "耳機",
+      "photos": "30.jpg",
+      "stock": 100,
+      "price": 599,
+      "info": "高性價比入門有線耳機，提供優質的音頻體驗。輕量化設計適合日常使用。內置麥克風和線控，方便操作和通話。適合學生和預算有限的消費者。",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 156,
+      "name": "高效能遊戲桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "31.webp",
+      "stock": 25,
+      "price": 45999,
+      "info": "高效能遊戲桌上型電腦，搭載Intel Core i9處理器、NVIDIA RTX 3080顯示卡、32GB RAM和1TB NVMe SSD。水冷系統確保穩定性能，RGB燈效增添視覺享受。",
+      "brand": "ASUS"
+    },
+    {
+      "id": 157,
+      "name": "專業創作者工作站",
+      "category": "桌上型電腦",
+      "photos": "32.webp",
+      "stock": 20,
+      "price": 58999,
+      "info": "專業創作者工作站，配備AMD Threadripper處理器、NVIDIA Quadro RTX 5000顯示卡、64GB ECC RAM和2TB NVMe SSD。適合3D渲染、視頻編輯等高強度工作。",
+      "brand": "Dell"
+    },
+    {
+      "id": 158,
+      "name": "家用多媒體桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "33.webp",
+      "stock": 40,
+      "price": 23999,
+      "info": "家用多媒體桌上型電腦，採用Intel Core i5處理器、16GB RAM、512GB SSD和1TB HDD。內建Wi-Fi 6和藍牙5.0，適合日常使用和娛樂需求。",
+      "brand": "HP"
+    },
+    {
+      "id": 159,
+      "name": "迷你桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "34.webp",
+      "stock": 50,
+      "price": 15999,
+      "info": "迷你桌上型電腦，搭載Intel NUC平台，Core i7處理器、16GB RAM和512GB SSD。體積小巧，適合空間有限的辦公環境或作為家庭娛樂中心。",
+      "brand": "Intel"
+    },
+    {
+      "id": 160,
+      "name": "all-in-one一體機",
+      "category": "桌上型電腦",
+      "photos": "35.webp",
+      "stock": 35,
+      "price": 32999,
+      "info": "27吋4K觸控螢幕all-in-one一體機，搭載AMD Ryzen 7處理器、16GB RAM、1TB SSD。內建高品質攝像頭和揚聲器，適合遠程辦公和視訊會議。",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 161,
+      "name": "電競特仕版桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "36.webp",
+      "stock": 15,
+      "price": 79999,
+      "info": "電競特仕版桌上型電腦，搭載最新Intel Core i9-K系列處理器、NVIDIA RTX 3090顯示卡、64GB RGB RAM和2TB NVMe SSD。採用定制水冷系統，極致超頻性能。",
+      "brand": "MSI"
+    },
+    {
+      "id": 162,
+      "name": "商務辦公桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "37.webp",
+      "stock": 60,
+      "price": 18999,
+      "info": "商務辦公桌上型電腦，配備Intel Core i5處理器、8GB RAM、256GB SSD。預裝Windows 11 Pro，提供穩定可靠的辦公體驗。",
+      "brand": "Dell"
+    },
+    {
+      "id": 163,
+      "name": "創意設計桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "38.webp",
+      "stock": 30,
+      "price": 41999,
+      "info": "創意設計桌上型電腦，採用AMD Ryzen 9處理器、32GB RAM、1TB NVMe SSD和AMD Radeon Pro顯示卡。優化設計軟件性能，適合平面設計和插畫工作。",
+      "brand": "Apple"
+    },
+    {
+      "id": 164,
+      "name": "入門級遊戲桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "39.webp",
+      "stock": 45,
+      "price": 28999,
+      "info": "入門級遊戲桌上型電腦，搭載AMD Ryzen 5處理器、NVIDIA GTX 1660 Super顯示卡、16GB RAM和500GB SSD。性價比高，適合休閒遊戲玩家。",
+      "brand": "Acer"
+    },
+    {
+      "id": 165,
+      "name": "靜音家庭影音桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "40.webp",
+      "stock": 40,
+      "price": 25999,
+      "info": "靜音家庭影音桌上型電腦，採用被動散熱設計，無風扇運作。搭載Intel Core i7處理器、16GB RAM、1TB SSD和內建顯示卡。適合作為家庭影音中心使用。",
+      "brand": "ASUS"
+    },
+    {
+      "id": 166,
+      "name": "企業級伺服器",
+      "category": "桌上型電腦",
+      "photos": "41.webp",
+      "stock": 10,
+      "price": 89999,
+      "info": "企業級伺服器，配備雙Intel Xeon可擴充處理器、128GB ECC RAM、多個熱插拔硬碟槽位。支援RAID配置，適合中小型企業的數據中心使用。",
+      "brand": "HP"
+    },
+    {
+      "id": 167,
+      "name": "教育用桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "42.webp",
+      "stock": 100,
+      "price": 12999,
+      "info": "教育用桌上型電腦，搭載Intel Pentium處理器、8GB RAM、256GB SSD。預裝教育版Windows系統，提供基本的學習和辦公功能。",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 168,
+      "name": "專業繪圖工作站",
+      "category": "桌上型電腦",
+      "photos": "43.webp",
+      "stock": 15,
+      "price": 68999,
+      "info": "專業繪圖工作站，配備Intel Xeon W處理器、NVIDIA RTX A4000顯示卡、64GB ECC RAM和2TB NVMe SSD。通過多種專業軟件認證，適合CAD和3D設計。",
+      "brand": "Dell"
+    },
+    {
+      "id": 169,
+      "name": "極致效能遊戲主機",
+      "category": "桌上型電腦",
+      "photos": "44.webp",
+      "stock": 20,
+      "price": 99999,
+      "info": "極致效能遊戲主機，搭載Intel Core i9-K系列處理器、雙NVIDIA RTX 3090顯示卡SLI、128GB RAM和4TB NVMe SSD。採用定制水冷系統，為發燒級玩家打造。",
+      "brand": "Alienware"
+    },
+    {
+      "id": 170,
+      "name": "智能家庭中心",
+      "category": "桌上型電腦",
+      "photos": "45.webp",
+      "stock": 55,
+      "price": 19999,
+      "info": "智能家庭中心，整合智能家居控制功能。搭載Intel Core i3處理器、8GB RAM、256GB SSD。支援語音控制，可管理智能家電和安全系統。",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 171,
+      "name": "多功能一體機",
+      "category": "桌上型電腦",
+      "photos": "46.webp",
+      "stock": 40,
+      "price": 35999,
+      "info": "32吋4K觸控螢幕多功能一體機，可調整角度作為繪圖板使用。搭載AMD Ryzen 7處理器、32GB RAM、1TB SSD和AMD Radeon顯示卡。適合設計師和創意工作者。",
+      "brand": "Microsoft"
+    },
+    {
+      "id": 172,
+      "name": "輕量級桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "47.webp",
+      "stock": 70,
+      "price": 9999,
+      "info": "輕量級桌上型電腦，體積小巧，易於攜帶。搭載Intel Celeron處理器、4GB RAM、128GB SSD。適合基本的網頁瀏覽和文書處理。",
+      "brand": "Acer"
+    },
+    {
+      "id": 173,
+      "name": "VR遊戲體驗主機",
+      "category": "桌上型電腦",
+      "photos": "48.webp",
+      "stock": 25,
+      "price": 52999,
+      "info": "VR遊戲體驗主機，專為虛擬實境遊戲優化。搭載AMD Ryzen 9處理器、NVIDIA RTX 3080顯示卡、32GB RAM和1TB NVMe SSD。支援最新VR頭顯和控制器。",
+      "brand": "ASUS"
+    },
+    {
+      "id": 174,
+      "name": "節能環保桌上型電腦",
+      "category": "桌上型電腦",
+      "photos": "49.webp",
+      "stock": 50,
+      "price": 16999,
+      "info": "節能環保桌上型電腦，採用低功耗設計和可回收材料。搭載Intel Core i5低電壓處理器、8GB RAM、256GB SSD。獲得能源之星認證，適合注重環保的用戶。",
+      "brand": "HP"
+    },
+    {
+      "id": 175,
+      "name": "電競直播主機",
+      "category": "桌上型電腦",
+      "photos": "50.webp",
+      "stock": 30,
+      "price": 55999,
+      "info": "電競直播主機，專為遊戲直播優化。搭載AMD Ryzen 9處理器、NVIDIA RTX 3080顯示卡、64GB RAM、2TB NVMe SSD和內建擷取卡。支援4K遊戲和同時直播。",
+      "brand": "MSI"
+    },
+    {
+      "id": 176,
+      "name": "科學計算工作站",
+      "category": "桌上型電腦",
+      "photos": "51.webp",
+      "stock": 15,
+      "price": 75999,
+      "info": "科學計算工作站，配備Intel Xeon可擴充處理器、NVIDIA Tesla計算卡、128GB ECC RAM和4TB NVMe SSD。支援CUDA加速，適合機器學習和科學模擬。",
+      "brand": "Dell"
+    },
+    {
+      "id": 177,
+      "name": "多媒體製作中心",
+      "category": "桌上型電腦",
+      "photos": "52.webp",
+      "stock": 35,
+      "price": 48999,
+      "info": "多媒體製作中心，專為音視頻製作優化。搭載Intel Core i9處理器、32GB RAM、2TB NVMe SSD和專業音頻接口。配備多個顯示器輸出，適合影音後期製作。",
+      "brand": "Apple"
+    },
+    {
+      "id": 178,
+      "name": "經濟實惠家用電腦",
+      "category": "桌上型電腦",
+      "photos": "53.webp",
+      "stock": 80,
+      "price": 11999,
+      "info": "經濟實惠家用電腦，提供基本的家庭和學習需求。搭載AMD Ryzen 3處理器、8GB RAM、256GB SSD。預裝家庭版Windows系統，性價比高。",
+      "brand": "Acer"
+    },
+    {
+      "id": 179,
+      "name": "工業控制電腦",
+      "category": "桌上型電腦",
+      "photos": "54.webp",
+      "stock": 20,
+      "price": 39999,
+      "info": "工業控制電腦，採用堅固耐用設計，適合惡劣環境使用。搭載Intel Core i7處理器、16GB RAM、512GB SSD。支援多種工業標準接口，適合工廠自動化控制。",
+      "brand": "Lenovo"
+    },
+    {
+      "id": 180,
+      "name": "超頻玩家定制主機",
+      "category": "桌上型電腦",
+      "photos": "55.webp",
+      "stock": 15,
+      "price": 85999,
+      "info": "超頻玩家定制主機，採用極致散熱設計。搭載Intel Core i9-K系列處理器（已超頻）、NVIDIA RTX 3090 Ti顯示卡、64GB DDR5 RAM和2TB PCIe 4.0 SSD。支援極限超頻，為發燒級玩家量身打造。",
+      "brand": "ASUS ROG"
+    },
+    {
+      "id": 181,
+      "name": "專業視頻剪輯工作站",
+      "category": "桌上型電腦",
+      "photos": "56.webp",
+      "stock": 20,
+      "price": 72999,
+      "info": "專業視頻剪輯工作站，針對4K/8K視頻處理優化。配備AMD Threadripper Pro處理器、NVIDIA RTX A6000顯示卡、128GB ECC RAM和4TB NVMe RAID陣列。支援多種專業視頻輸入輸出接口。",
+      "brand": "Dell Precision"
+    },
+    {
+      "id": 182,
+      "name": "迷你創意設計電腦",
+      "category": "桌上型電腦",
+      "photos": "57.webp",
+      "stock": 40,
+      "price": 29999,
+      "info": "迷你創意設計電腦，體積小巧但性能強勁。搭載AMD Ryzen 7處理器、32GB RAM、1TB SSD和AMD Radeon Pro顯示卡。適合設計師和創意工作者在有限空間使用。",
+      "brand": "Apple Mac Mini"
+    },
+    {
+      "id": 183,
+      "name": "高性能學生電腦",
+      "category": "桌上型電腦",
+      "photos": "58.webp",
+      "stock": 50,
+      "price": 18999,
+      "info": "高性能學生電腦，滿足學習和娛樂需求。配備Intel Core i5處理器、16GB RAM、512GB SSD和NVIDIA GTX 1650顯示卡。預裝教育常用軟件，適合各階段學生使用。",
+      "brand": "Lenovo IdeaCentre"
+    },
+    {
+      "id": 184,
+      "name": "企業資料處理中心",
+      "category": "桌上型電腦",
+      "photos": "59.webp",
+      "stock": 10,
+      "price": 105999,
+      "info": "企業資料處理中心，專為大數據分析和企業級應用設計。搭載雙Intel Xeon可擴充處理器、256GB ECC RAM、多個熱插拔SSD和HDD。支援虛擬化技術和遠程管理。",
+      "brand": "HP Enterprise"
+    },
+    {
+      "id": 185,
+      "name": "全能家庭娛樂中心",
+      "category": "桌上型電腦",
+      "photos": "60.webp",
+      "stock": 60,
+      "price": 23999,
+      "info": "全能家庭娛樂中心，集成多媒體功能。配備AMD Ryzen 5處理器、16GB RAM、1TB SSD和AMD Radeon RX 6600顯示卡。支援4K影音播放，內建高品質音響系統，適合家庭影音娛樂。",
+      "brand": "MSI"
+    }
+
+  
+  
+ 
+]
